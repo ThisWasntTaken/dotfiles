@@ -1,0 +1,368 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/ananth/
+	..
+1562158415
+'b
+	/home/ananth/bin/
+	..
+1562158415
+'h
+	/home/ananth/
+	..
+1562158415
+'z
+	/home/ananth/.config/vifm
+	..
+1562158415
+
+# Bookmarks:
+
+# TUI:
+al
+q0
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/ananth
+	Downloads
+2
+d/home/ananth/Downloads
+	Wallpaper.png
+1
+d/home/ananth
+	Programs
+3
+d/home
+	ananth
+1
+d/
+	home
+4
+d/home
+	ananth
+1
+d/home/ananth
+	Downloads
+2
+d/home/ananth/Downloads
+	Wallpaper.png
+1
+d/home/ananth
+	Programs
+3
+d/home/ananth/Programs
+	powerline-fonts-git
+1
+d/home/ananth
+	Downloads
+2
+d/home/ananth/Downloads
+	cv.pdf
+2
+d/home/ananth
+	Downloads
+2
+d/home
+	ananth
+1
+d/home/ananth
+	Desktop
+1
+d/home
+	ananth
+1
+d/
+	home
+4
+d/home
+	ananth
+1
+d/home/ananth
+	Downloads
+2
+d/home/ananth/Downloads
+	Wallpaper.png
+1
+d/home/ananth
+	Desktop
+1
+d/home/ananth/Desktop
+	Resume
+1
+d/home/ananth/Desktop/Resume
+	test.pdf
+3
+d/home/ananth/Desktop
+	..
+0
+d/home/ananth
+	Desktop
+1
+d/home
+	ananth
+1
+d/home/ananth
+	Downloads
+2
+d/home/ananth/Downloads
+	Wallpaper.png
+1
+d/home/ananth
+	Programs
+3
+d/home/ananth/Programs
+	powerline-fonts-git
+1
+d/home/ananth
+	Desktop
+1
+d/home/ananth/Desktop
+	..
+0
+d/home/ananth
+	Downloads
+2
+d/home/ananth/Downloads
+	cv.pdf
+2
+d/home/ananth
+	Downloads
+2
+d/home/ananth/Downloads
+	cv.pdf
+3
+d/home/ananth
+	Downloads
+2
+d/home
+	ananth
+1
+d/
+	boot
+1
+d/boot
+	..
+0
+d/
+	dev
+2
+d/dev
+	..
+0
+d/
+	home
+4
+d/home
+	ananth
+1
+d/
+	run
+12
+d/run
+	..
+0
+d/
+	usr
+18
+d/usr
+	include
+2
+d/usr/include
+	..
+0
+d/usr
+	bin
+1
+d/usr/bin
+	..
+0
+d/usr
+	local
+6
+d/usr/local
+	etc
+2
+d/usr/local/etc
+	..
+0
+d/usr/local
+	etc
+2
+d/usr
+	share
+8
+d/usr/share
+	..
+0
+d/usr
+	src
+9
+d/usr/src
+	..
+0
+d/usr
+	src
+9
+d/
+	lib64
+6
+d/lib64
+	X11
+2
+d/lib64/X11
+	x11perfcomp
+1
+d/lib64/X11/x11perfcomp
+	..
+0
+d/lib64/X11
+	x11perfcomp
+1
+d/lib64
+	audit
+3
+d/lib64/audit
+	..
+0
+d/lib64
+	avahi
+4
+d/lib64/avahi
+	..
+0
+d/lib64
+	awk
+5
+d/lib64/awk
+	..
+0
+d/lib64
+	bash
+6
+d/lib64/bash
+	..
+0
+d/lib64
+	bellagio
+7
+d/lib64/bellagio
+	..
+0
+d/lib64
+	bfd-plugins
+8
+d/lib64/bfd-plugins
+	..
+0
+d/lib64
+	binfmt.d
+9
+d/lib64/binfmt.d
+	..
+0
+d/lib64
+	cairo
+10
+d/lib64/cairo
+	..
+0
+d/lib64
+	cmake
+11
+d/lib64/cmake
+	DBus1
+1
+d/lib64/cmake/DBus1
+	..
+0
+d/lib64/cmake
+	Gpgmepp
+2
+d/lib64
+	firefox
+27
+d/lib64/firefox
+	browser
+1
+d/lib64/firefox/browser
+	chrome
+1
+d/lib64/firefox/browser/chrome
+	icons
+1
+d/lib64/firefox/browser/chrome/icons
+	default
+1
+d/lib64/firefox/browser/chrome/icons/default
+	..
+0
+d/lib64/firefox/browser/chrome/icons
+	default
+1
+d/lib64/firefox/browser/chrome
+	icons
+1
+d/lib64/firefox/browser
+	chrome
+1
+d/lib64/firefox
+	browser
+1
+d/lib64
+	firefox
+27
+d/
+	home
+4
+d/home
+	ananth
+1
+d/home/ananth
+	Programs
+3
+d/home/ananth/Programs
+	powerline-fonts-git
+2
+d
+
+# Right window history (oldest to newest):
+D/home/ananth
+	..
+0
+D
+
+# Command line history (oldest to newest):
+:b
+:cq
+:feh Wallpaper.png
+:q
+
+# Search history (oldest to newest):
+
+# Prompt history (oldest to newest):
+
+# Local filter history (oldest to newest):
+
+# Registers:
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+
+# State:
+f
+i1
+[.1
+[F
+F
+I1
+].1
+]F
+s0

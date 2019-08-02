@@ -1,0 +1,20 @@
+:zI
+:z
+:zi
+:+
+:!cd Dow
+:ls
+:!ls
+:new ~/Downloads/Linear\ Algebra\ and\ its\ Applications\ -\ Gilbert\ Strang.pdf
+:tabe ~/Downloads Linear\ Algebra\ and\ its\ Applications\ -\ Gilbert\ Strang.pdf
+:r ~/Downloads/Linear\ Algebra\ and\ its\ Applications\ -\ Gilbert\ Strang.pdf
+:e ~/Downloads/Linear\ Algebra\ and\ its\ Applications\ -\ Gilbert\ Strang.pdf
+:!zathura ~/Downloads/Linear\ Algebra\ and\ its\ Applications\ -\ Gilbert\ Strang.pdf
+:edit ~/DownloadsLinear\ Algebra\ and\ its\ Applications\ -\ Gilbert\ Strang.pdf
+:a
+:q
+:open /home/ananth/Downloads/Linear\ Algebra\ and\ its\ Applications\ -\ Gilbert\ Strang.pdf
+:g343
+:open /shared/Books/Linear\ Algebra\ and\ its\ Applications\ -\ Gilbert\ Strang.pdf
+:343:
+3:43g
