@@ -1,20 +1,3 @@
-sudo vim .Xresources 
-xrdb -merge ~/.Xresources
-ls
-vim .config/i3/config 
-ls
-cd ..
-cd
-ls
-ls
-ls
-sudo vim .Xresources 
-sudo vim .Xresources 
-ls -al
-cat .Xresources 
-cd .dotfiles/x/
-ls
-ls -al
 cat .Xresources 
 cd 
 ls
@@ -498,3 +481,20 @@ vim .vimrc
 cd Desktop/CodingPractice/
 ls
 ls
+ls -al
+mv .viminfo .dotfiles/vim/
+cd .dotfiles/
+stow *
+git status
+cd vim/
+ls
+cd .vim
+ls
+cd ..
+cd ..
+stow *
+git status
+git add .
+git commit -m "Changed to gruvbox colorscheme"
+git push origin master
+ls -al
