@@ -23,9 +23,10 @@ set autoindent
 set laststatus=2
 syntax enable
 set t_Co=256
-colors zenburn 
+set bg=dark
+colors gruvbox
 syntax on
-
+:set mouse=a
 " Keybindings to switch between tabs easily.
 map <C-n> :tabn<CR>
 map <C-b> :tabp<CR>

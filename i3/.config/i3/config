@@ -16,9 +16,9 @@ set $mod Mod4
 font pango: Pragmata Pro Mono Bold 12
 
 # Window borders
-#new_window 1pixel
+new_window 1pixel
 smart_borders on
-gaps inner 0
+gaps inner 8
 gaps outer 0
 
 # This font is widely installed, provides lots of unicode glyphs, right-to-left
@@ -39,7 +39,7 @@ floating_modifier $mod
 bindsym $mod+Return exec xterm
 
 # kill focused window
-bindsym $mod+Shift+q kill
+bindsym $mod+Escape kill
 
 # change focus
 bindsym $mod+j focus left
@@ -216,3 +216,4 @@ bindsym $mod+d exec rofi -show run -font "Pragmata Pro Mono 15"
 exec xterm
 exec google-chrome-stable
 exec_always feh --bg-scale ~/Downloads/Wallpaper.png
+exec_always compton  --config /home/ananth/.config/compton/compton.conf
