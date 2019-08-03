@@ -1,67 +1,3 @@
-cat .Xresources 
-cd 
-ls
-vim .bashrc
-source .bashrc 
-echo $TERM
-ls
-cd .dotfiles/
-ls
-cd x/
-ls
-ls -al
-ls
-cd .local/
-ls
-cd share/
-ls
-cd xorg/
-ls
-cd..
-cd ..
-;s
-cd ..
-ls
-cd ..
-ls
-cd ..
-ls
-vim .config/i3/config 
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-pacman -Qi compton
-ls
-ls
-vim .config/i3/config 
-ls
-ls
-cd .dotfiles/
-ls
-stow vim
-ls
-mkdir vifm
-cd vifm/
-ls
-mkdir .local
-cd .
-cd .local/
-mkdir share
-cd ..
-cd ..
-cd vifm/
-ls
-ls -al
-mkdir .config
-cd ..
-stow vifm/
-ls
-ls
-git init
-ls
-ls -al
-git remote add origin https://github.com/ThisWasntTaken/dotfiles.git
 ls
 git status
 git add .
@@ -498,3 +434,67 @@ git add .
 git commit -m "Changed to gruvbox colorscheme"
 git push origin master
 ls -al
+cd /shared/
+cd fonts/
+ls
+cd
+xrdb -merge ~/.Xresources 
+ls
+cd .local/font
+cd .local/share/fonts/
+ls
+cd /shared/fonts/
+ls
+cp * ~/.local/share/fonts/
+fc-cache
+cd
+fc-cache
+sudo vim .Xresources 
+ls
+ls -al
+cd Desktop/CodingPractice/
+vim infixToPostfix.py 
+xrdb -merge ~/.Xresources 
+ls -al
+cd Desktop/CodingPractice/
+ls
+vim infixToPostfix.py 
+ls -al
+ls -al
+ls -al
+sudo vim .Xresources 
+xrdb -merge ~/.Xresources 
+sudo vim .Xresources 
+xrdb -merge ~/.Xresources 
+ls -al
+sudo vim .Xresources 
+xrdb -merge ~/.Xresources 
+cd /shared/
+ls
+rm -rf fonts/
+ls
+cd
+vim .config/i3/config 
+vim .config/compton/compton.conf 
+vim .config/compton/compton.conf 
+vim .config/compton/compton.conf 
+vim .config/compton/compton.conf 
+cd .dotfiles/
+ls
+mkdir compton
+cd compton/
+mkdir .config
+cd ..
+cd i3/
+ls
+cd .config/
+ls
+cd i3
+ls
+cd ..
+cd ..
+cd ..
+cd compton/.config/
+mkdir compton
+ls
+cd compton/

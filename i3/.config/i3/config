@@ -18,7 +18,7 @@ font pango: Pragmata Pro Mono Bold 12
 # Window borders
 new_window 1pixel
 smart_borders on
-gaps inner 8
+gaps inner 5
 gaps outer 0
 
 # This font is widely installed, provides lots of unicode glyphs, right-to-left
