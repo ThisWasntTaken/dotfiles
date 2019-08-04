@@ -31,30 +31,6 @@ r2
 
 # Left window history (oldest to newest):
 d/home/ananth
-	Downloads
-2
-d/home/ananth/Downloads
-	Wallpaper.png
-1
-d/home/ananth
-	Programs
-3
-d/home
-	ananth
-1
-d/
-	home
-4
-d/home
-	ananth
-1
-d/home/ananth
-	Downloads
-2
-d/home/ananth/Downloads
-	Wallpaper.png
-1
-d/home/ananth
 	Programs
 3
 d/home/ananth/Programs
@@ -330,6 +306,30 @@ d/home/ananth
 d/home/ananth/Programs
 	stow-git
 3
+d/home/ananth
+	Programs
+3
+d/home
+	ananth
+1
+d/
+	shared
+14
+d/shared
+	Projects
+4
+d/shared/Projects
+	Iris
+1
+d/shared
+	CourseWork
+3
+d/shared/CourseWork
+	ArtificialIntelligence
+1
+d/shared/CourseWork/ArtificialIntelligence
+	projects.pdf
+1
 d
 
 # Right window history (oldest to newest):

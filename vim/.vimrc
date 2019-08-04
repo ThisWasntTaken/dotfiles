@@ -22,11 +22,17 @@ set number
 set autoindent
 set laststatus=2
 syntax enable
+syntax on
 set t_Co=256
 set bg=dark
 colors gruvbox
-syntax on
-:set mouse=a
+
+"Disable modes showing beneath powerline status
+set noshowmode
+
+" Enable mouse scrolling
+set mouse=a
+
 " Keybindings to switch between tabs easily.
 map <C-n> :tabn<CR>
 map <C-b> :tabp<CR>

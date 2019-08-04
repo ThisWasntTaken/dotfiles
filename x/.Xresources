@@ -9,8 +9,8 @@ rofi.color-window: #000000, #000000, #676767
 rofi.color-normal: #000000, #ffffff, #000000, #676767, #ffffff
 rofi.color-active: #000000, #ffffff, #000000, #676767, #ffffff
 rofi.color-urgent: #000000, #ffffff, #000000, #676767, #ffffff
-XTerm*faceName:     Pragmata Pro Mono
-XTerm*faceSize:     11
+XTerm*faceName:     Iosevka Medium
+XTerm*faceSize:     10.5
 XTerm*termName:     xterm-256color
 
 !!! Zenburn
