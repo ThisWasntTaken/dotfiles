@@ -12,9 +12,12 @@
 :!zathura ~/Downloads/Linear\ Algebra\ and\ its\ Applications\ -\ Gilbert\ Strang.pdf
 :edit ~/DownloadsLinear\ Algebra\ and\ its\ Applications\ -\ Gilbert\ Strang.pdf
 :a
-:q
 :open /home/ananth/Downloads/Linear\ Algebra\ and\ its\ Applications\ -\ Gilbert\ Strang.pdf
 :g343
 :open /shared/Books/Linear\ Algebra\ and\ its\ Applications\ -\ Gilbert\ Strang.pdf
 :343:
 :f1
+:open /shared/CourseWork/ArtificialIntelligence/projects.pdf
+:open /home/ananth/Downloads/10.1109@distra.2018.8601002.pdf
+:Q
+:q

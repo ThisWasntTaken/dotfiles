@@ -1,500 +1,500 @@
-vim gruvbox.vim]
-ls
-vim gruvbox.vim]
-ls
-vim gruvbox.vim
-vim gruvbox.vim
-vim gruvbox.vim
-vim gruvbox.vim
-cd
-sudo vim .Xresources 
-xrdb -merge ~/.Xresources 
-cat .Xresources 
+ls- al
+nvim .config/nvim/init.vim 
+nvim .config/nvim/init.vim 
+nvim .config/nvim/init.vim 
 cd Desktop/CodingPractice/
-vim infixToPostfix.py 
-vim infixToPostfix.py 
-vim infixToPostfix.py 
-vim infixToPostfix.py 
-vim shiftXOR.py 
-vim infixToPostfix.py 
-vim infixToPostfix.py 
-vim infixToPostfix.py 
-vim infixToPostfix.py 
-vim infixToPostfix.py 
-vim infixToPostfix.py 
-vim infixToPostfix.py 
+nvim Practice.cpp 
+cd /shared/CourseWork/MathematicsForMachineLearningTA/
+ls -al
+cd tutorial1
+LS -AL
+ls -al
+nvim tutorial1Solutions.tex 
+pdflatex tutorial1Solutions.tex 
+zathura tutorial1Solutions.pdf 
+vifm
+nvim tutorial1Solutions.tex 
 cd
-cd Downloads/
-wget https://github.com/morhetz/gruvbox/blob/master/colors/gruvbox.vim
-ls
-mv gruvbox.vim ~/.vim/colors/
-ls
+nvim .config/nvim/init.vim 
+nvim .config/nvim/init.vim 
+cd /shared/CourseWork/MathematicsForMachineLearningTA/tutorial1/
+vim tutorial1Solutions.tex 
+nvim tutorial1Solutions.tex 
+nvim tutorial1Solutions.tex 
+nvim
+sudo pip install neovim
+nvim
+nvim tutorial1Solutions.tex 
+ls -al
+rm tutorial1Solutions.pdf tutorial1Solutions.aux tutorial1Solutions.log 
+ls -al
 cd
-cd Desktop/CodingPractice/
-vim infixToPostfix.py 
-vim infixToPostfix.py 
-vim infixToPostfix.py 
+cd /shared/CourseWork/MathematicsForMachineLearningTA/tutorial2
+ls -al
+cd ..
+cd tutorial3/
+ls -al
 cd
-vim .vimrc 
-vim .vimrc 
-vim .vimrc 
-vim .vimrc 
-vim .vimrc 
-vim .vimrc 
-cd Desktop/CodingPractice/
-ls
-ls
-ls -al
-mv .viminfo .dotfiles/vim/
-cd .dotfiles/
-stow *
-git status
-cd vim/
-ls
-cd .vim
-ls
-cd ..
-cd ..
-stow *
-git status
-git add .
-git commit -m "Changed to gruvbox colorscheme"
-git push origin master
-ls -al
-cd /shared/
-cd fonts/
-ls
 cd
-xrdb -merge ~/.Xresources 
-ls
-cd .local/font
-cd .local/share/fonts/
-ls
-cd /shared/fonts/
-ls
-cp * ~/.local/share/fonts/
-fc-cache
+cd /shared/CourseWork/MathematicsForMachineLearningTA/tutorial3/
+nvim tutorial3Solutions.tex 
 cd
-fc-cache
-sudo vim .Xresources 
-ls
-ls -al
-cd Desktop/CodingPractice/
-vim infixToPostfix.py 
-xrdb -merge ~/.Xresources 
-ls -al
-cd Desktop/CodingPractice/
-ls
-vim infixToPostfix.py 
-ls -al
-ls -al
-ls -al
-sudo vim .Xresources 
-xrdb -merge ~/.Xresources 
-sudo vim .Xresources 
-xrdb -merge ~/.Xresources 
-ls -al
-sudo vim .Xresources 
-xrdb -merge ~/.Xresources 
-cd /shared/
-ls
-rm -rf fonts/
-ls
-cd
-vim .config/i3/config 
-vim .config/compton/compton.conf 
-vim .config/compton/compton.conf 
-vim .config/compton/compton.conf 
-vim .config/compton/compton.conf 
-cd .dotfiles/
-ls
-mkdir compton
-cd compton/
-mkdir .config
-cd ..
-cd i3/
-ls
-cd .config/
-ls
-cd i3
-ls
-cd ..
-cd ..
-cd ..
-cd compton/.config/
-mkdir compton
-ls
-cd compton/
-sudo pacman -S etags
-etags
-ctags
-ctags --help
-ls
-reboot
-resume
-reboot
-poweroff
-top
 sudo pacman -Syu
 sudo pacman -Rns $(pacman -Qtdq)
-cd Desktop/CodingPractice/
-vim Test.cpp 
-vim Test.java
-javac Test.java 
-java Test
-vim Test.java
-ls -al
-cat tags 
-vim infixToPostfix.py 
-cd
-sudo pacman -R ctags
-sudo pacman -Rns $(pacman -Qtd)
+sudo pacman -Syu
 sudo pacman -Rns $(pacman -Qtdq)
+poweroff
 ls -al
-cd .vim
-ls
-rm -rf autoload/ dist/ doc/
-ls
+cd .vim/
+ls -al
+cd ..
+cd .vim/
+ls -al
+cd ..
+cd .dotfiles/
+ls -al
+cd vim/
+ls -al
+nvim .vimrc 
+nvim .vimrc 
+nvim .vimrc 
+nvim .vimrc 
+nvim .vimrc 
+nvim .vimrc 
+nvim .vimrc 
+nvim .vimrc 
+nvim .vimrc 
+nvim .vimrc 
+nvim .vimrc 
+nvim .config/i3/config
+cd /shared/CourseWork/MathematicsForMachineLearningTA/tutorial3/
+nvim tutorial3Solutions.tex 
+cd ..
+cd tutorial2/
+nvim tutorial2Solutions.tex 
+nvim .config/nvim/init.vim 
+nvim .config/nvim/init.vim 
+cd .local/share/nvim/plugged/vim-airline-themes/
+ls -al
 cd plugin/
-ls
-rm -rf TagHighlight TagHighlight.vim 
-ls
 ls -al
+nvim airline-themes.vim 
 cd ..
 ls -al
-vim .netrwhist 
-cd ..
-ls
-cd Desktop/CodingPractice/
-vim Test.cpp 
-ls
-rm tags types_*
-ls
-vim Test.java 
+cd plugin/
 ls -al
-rm Test.* a.out 
-ls
+nvim airline-themes.vim 
+cd ..
+ls -al
+cd doc/
+ls -al
+nvim airline-themes.txt 
+cd ..
+cd autoload/airline/themes/
+ls -al
+nvim :q
+ls -al
+nvim .config/nvim/init.vim 
+nvim .config/nvim/init.vim 
+nvim .config/nvim/init.vim 
+nvim .config/nvim/init.vim 
+nvim .config/nvim/init.vim 
+cd .local/share/nvim/plugged/vim-airline-themes/
+ls -al
+cd autoload/airline/themes/
+nvim light.vim 
+nvim zenburn.vim 
+ls -al
+nvim ouo.vim 
 cd
-sudo pacman  -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman  -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-cd Downloads/
-ls
-mv projects.pdf /shared/
-ls
-rm taghighlight_standard_libraries_r2.1.4.zip 
-ls
-cd
-cd /shared/
-ls
-mkdir CourseWork
-cd CourseWork/
-mkdir ArtificialIntelligence
-cd ..
-mv projects.pdf CourseWork/ArtificialIntelligence/
-cd CourseWork/ArtificialIntelligence/
-vifm
-sudo pacman -S xdg-open
-xdg-settings get default-web-browser
-sudo pacman -S xdg-utils
-sudo pacman -Rns $(pacman -Qtdq)
-xdg-settings get default-web-browser
-vifm
-cd
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-suspend
-man logind.conf
-poweroff
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-ls
-sudo vim .Xresources 
-xrdb -merge ~/.Xresources 
+nvim .config/nvim/init.vim ]
+nvim .config/nvim/init.vim
+nvim .config/nvim/init.vim
+nvim .config/nvim/init.vim
+nvim .config/nvim/init.vim 
+nvim .config/nvim/init.vim 
+cd .dotfiles/nvim/
 ls -al
-ls -akl
-cd .local/share/fonts/
-ls
-ls -al
-cd .local/share/fonts/
-ls
-cd
-sudo vim .Xresources 
-xrbd -merge .Xresources 
-xrdb -merge .Xresources 
-sudo vim .Xresources 
-xrdb -merge .Xresources 
-sudo vim .Xresources 
-xrdb -merge .Xresources 
-sudo vim .Xresources 
-xrdb -merge .Xresources 
-sudo vim .Xresources 
-xrdb -merge .Xresources 
-ls -al
-vim
-sudo vim .Xresources 
-xrdb -merge .Xresources 
-ls -al
-ls -al
-vim
-cd /bin/powerline
-cd /usr/share/powerline/bindings/
-la
-ls
-cd bash/
-ls
-cd ..
-cd bar/
-ls
-cd ..
-cat config.py 
-ls
-cd shell/
-ls
-cat powerline.sh 
-cd ..
-ls
-cd ..
-ls
-cd ..
-ls
-cd powerline/
-ls
-ls -al
-cd bindings
-ls
-cd i3/
-ls
-cd
-ls -al
+mkdir .config
+mkdir .local
 cd .local/
+mkdir share
+cd ..
+cd ..
+stow nvim
+cd .dotfiles/
 ls -al
-cd lib/
-ls
-cd python3.7/site-packages/powerline
-ls
-vim colorscheme.py 
-vim vim.py 
-cd config_files/
-ls
-cd colors
-cd colorss
-cd colorschemes/
-ls
-cd ..
-vim colors.json 
-ls
-cd config.json 
-vim config.json 
-ls
-cd themes/
-ls
-cd shell/
-ls
-cd ..
-ls
-cd vim/
-ls
-vim default.json 
-vim default.json 
-cd ..
-ls
-cd shell/
-ls
-vim default
-vim default.json 
-cd ..
-ls
-cd ..
-ls
-cd colors
-ls
-cd colorschemes/
-ls
-cd vim/
-ls
-vim default.json 
-ls
-vim solarized
-vim __main__.json 
-vim solarized.json 
-cd ..
-ls
-cd shell/
-ls
-vim default.json 
-ls
-cd ..
-ls
-cd vim/
-ls
-vim default.json 
-pwd
-vim .vimrc 
-vim .vimrc 
-vim
-vim
-vim
+cd compton/
 ls -al
-vim
+cd .config/
 ls -al
-vim .vimrc 
-vim .vimrc 
-sudo vim .Xresources 
-xrdb -merge .Xresources 
-sudo vim .Xresources 
-xrdb -merge .Xresources 
-sudo vim .Xresources 
-xrdb -merge .Xresources 
-sudo vim .Xresources 
-xrdb -merge .Xresources 
-sudo vim .Xresources 
-xrdb -merge .Xresources 
-cd .local/lib/python3.7/site-packages/powerline
-ls
-vim
-vim
-ls -al
-ls -al
-ls -al
-cd .local/share/fonts/
-ls
+cd compton/
 ls -al
 cd
-fc-cache
-sudo vim .Xresources 
-xrdb -merge .Xresources 
+nvim .config/nvim/init.vim 
+cd Desktop/CodingPractice/
+nvim infixToPostfix.py 
+nvim infixToPostfix.py 
+cd
+cd .config/nvim/
+nvim init.vim 
+nvim init.vim 
+nvim init.vim 
+nvim init.vim 
+nvim init.vim 
+nvim init.vim 
+nvim init.vim 
+nvim init.vim 
+nvim init.vim 
+nvim init.vim 
+nvim init.vim 
+nvim init.vim 
+nvim init.vim 
+nvim init.vim 
+cd
+cd /shared/CourseWork/MathematicsForMachineLearningTA/tutorial3/
 ls -al
-ls -al
-vim
-sudo vim .Xresources 
-xrdb -merge .Xresources 
-ls -al
-sudo vim .Xresources 
-xrdb -merge .Xresources 
-sudo vim .Xresources 
-xrdb -merge .Xresources 
-cd Downloads/
-ls
-tar -xvf FantasqueSansMono-LargeLineHeight-NoLoopK.tar.gz 
-ls -al
-cd OTF/
-ls
-mv * ~/.local/share/fonts/
-ls
+nvim tutorial3Solutions.tex 
 cd ..
-ls
-ls
-rm -rf OTF/TTF CHANGELOG.md FantasqueSansMono-LargeLineHeight-NoLoopK.tar.gz Webfonts/
+cd tutorial2/
+vim tutorial2Solutions.tex 
+nvim tutorial2Solutions.tex 
+cd ..
+cd tutorial3
+nvim tutorial3Solutions.tex 
+cd ..
+cd tutorial1/
+nvim tutorial1Solutions.tex 
+cd ..
+cd tutorial2
 ls -al
-rm -rf OTF/ TTF/
-ls
-vim README.md 
-ls
-vim LICENSE.txt 
-ls -al
-rm README.md LICENSE.txt 
-ls -al
-ls -al
-ls -al
-vim .vimrc 
-ls
-ls -al
-sudo vim .Xresources 
-xrdb -merge .Xresources 
-sudo vim .Xresources 
-xrdb -merge .Xresources 
-ls -al
-xrdb -merge .Xresources 
-xrdb -merge .Xresources 
-ls -al
-ls -al
-ls
-cd Desktop
-ls
-cd CodingPractice/
-ls
-vim infixToPostfix.py 
+nvim tutorial2Solutions.tex 
+cd ..
+cd tutorial
+cd tutorial1
+nvim tutorial1Solutions.tex 
 cd
-nmcli device wifi list
-nmcli device wifi connect Bzo3-UmVkbWlOb3RlNQ password NarZuma@123
-ls -al
-cd Downloads/
-ls
-unzip mononoki.zip 
-ls
-rm mononoki.zip 
-ls
-mv *.ttf ~/.local/share/fonts/
-ls
-rm mononoki-*
-ls
 cd
-sudo vim .Xresources 
-ls a-l
-xrdb -merge .Xresources 
-xrdb -merge .Xresources 
+cd /shared/CourseWork/MathematicsForMachineLearningTA/tutorial3
+nvim tutorial3Solutions.tex 
+nvim tutorial3Solutions.tex 
+nvim tutorial3Solutions.tex 
+nvim tutorial3Solutions.tex 
+cd
 ls -al
+cd .vim/
 ls -al
-vim .vimrc 
+cd ..
+rm -rf .vim/
+ls-la
 ls -al
-ls -al
-ls -al
-vim
-ls
-sudo pacman -S ttf-iosevka
 cd Programs/
-git clone https://aur.archlinux.org/ttf-iosevka.git
-make-pkg si
-makepkg si
-makepkg -si
-cd io
-cd ttf-iosevka/
-ls
-makepkg -si
-fc-cache
-c
+ls -al
+cd ..
+ls- al
+ls -al
+rm .python_history 
+cd .local/
+cd .sh
+cd share/
+ls -al
+cd nvim/
+ls-al
+ls -al
+cd..
 cd
-sudo vim .Xresources 
-sudo vim .Xresources 
+ls-al
 ls -al
-vim .vimrc 
-vim .config/i3/config 
+cd .dotfiles/
 ls -al
-vim .vimrc 
-sudo vim .Xresources 
-xrdb -merge .Xresources 
-ls
+cd vim/
 ls -al
-sudo vim .Xresources `
-sudo vim .Xresources
-xxrdb -merge .Xresources 
-xrdb -merge .Xresources 
+nvim .vimrc 
+cd ..
+rm -rf vim/
 ls -al
+mkdir nvim
 ls -al
+cd
+ls -al
+cd .config/
+ls -al
+mv nvim/ -p ~/.dotfiles/nvim/.config
+mv nvim/ ~/.dotfiles/nvim/.config
+cd ..
+mn .local/share/nvim/ .dotfiles/nvim/.local/share/
+mv .local/share/nvim/ .dotfiles/nvim/.local/share/
+nvim .config/nvimi
+nvim .config/nvim/init.vim 
+cd .local/lib/python3.7/site-packages/
+ls -al
+rm -rf powerline powerline_status-2.7-py3.7.egg-info/
+ls -al
+cd ..
+ls -al
+cd ..
+ls -al
+cd ..
+ls -al
+cd include/
+ls -al
+cd python3.7m/greenlet
+ls -al
+cd ..
+ls -al
+cd ..
+ls -al
+cd ..
+ls -al
+cd bin/
+ls -al
+rm -rf powerline*
+ls -al
+cd ..
+ls -al
+cd bin
+ls -al
+cd ..
+rm -rf bin/
+ls -al
+cd include/
+ls -al
+cd ..
+cd lib/
+ls -al
+cd
+cd .config/
+ls -al
+cd nvim
+ls -al
+cd ..
+cd dconf/
+ls -al
+cd ..
+cd fontconfig/1
+cd fontconfig/
+ls -al
+cd conf.d/
+ls -al
+mv 10-powerline-symbols.conf 11-powerline-symbols.conf 
+mv 11-powerline-symbols.conf 10-powerline-symbols.conf 
+cd ..
+rm -rf conf.d
+cd ..
+ls -al
+rm -rf fontconfig/
+ls -al
+cd dconf/
+ls -al
+cat user 
+cd
+ls -al
+cd D
 cd Downloads/
-ls
+ls -al
+cd ..
+ls -al
+cd .mono
+ls -al
 cd
+cd .gnupg/
+ls -al
+cd
+cd .pki/
+ls -al
+cd
+cd .cache/
+ls -al
+rm -rf vim/
+rm -rf fontconfig/
+ls -al
+cd
+poweroff
+ls -al
+xrdb -merge .Xresources 
+nvim
+sudo nvim .Xresources 
+sudo nvim .Xresources 
+ls -al
+sudo nvim .Xresources 
 sudo pacman -Syu
 sudo pacman -Rns $(pacman -Qtdq)
-sudo vim .Xresources 
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+ls -al
+nvim .bashrc 
+nvim .bashrc 
+sudo nvim .Xresources 
 xrdb -merge .Xresources 
 ls -al
+nvim .bashrc 
+sudo nvim .Xresources 
+xrdb -merge .Xresources 
+ls -al
+nvim .bashrc 
+nvim .bashrc 
+sudo nvim .Xresources 
+xrdb -merge .Xresources 
+ls -al
+ls -al
+nvim .local/share/nvim/plugged/gruvbox/colors/gruvbox.vim 
+nvim .local/share/nvim/plugged/gruvbox/colors/gruvbox.vim 
+nvim .local/share/nvim/plugged/gruvbox/colors/gruvbox.vim 
+ls -al
+ls -al
+nvim .config/compton/compton.conf 
+nvim .config/compton/compton.conf 
+nvim .config/compton/compton.conf 
+nvim .config/compton/compton.conf 
+nvim .config/compton/compton.conf 
+ls -al
+nvim .config/compton/compton.conf 
+ls -al
+cd Desktop/
+ls a-l
+cd
+source .bashrc 
+source .bashrc 
+source .bashrc 
+cd Desktop/
+ls al
+source .bashrc 
+cd
+source .bashrc 
+cd
+ls -al
+source .bashrc
+ls- al
+ls -al
+ls- al
+source .bashrc
+ls -al
+ls -al
+source .bashrc 
+source .bashrc 
+source .bashrc 
+source .bashrc 
+source .bashrc 
+tmux
+nvim
+nvim .config/compton/compton.conf 
+nvim .bashrc 
+source .bashrc 
+cd Desktop/
+cd
+vim .bashrc 
+nvim .bashrc 
+source .bashrc 
+cd Desktop/
+ls -al
+nvim .bashr
+cd
+nvim .bashrc 
+source .bashrc 
+nvim .bashrc 
+source .bashrc 
+cd Desktop/
+ls -al
+cd
+echo $'\u276f'
+source .bashrc 
+nvim .bashrc 
+source .bashrc 
+nvim .bashrc 
+source .bashrc 
+ls -al
+source .bashrc 
+ls -al
+nvim .bashrc 
+source .bashrc 
+nvim .bashrc 
+source .bashrc 
+nvim .bashrc 
+source .bashrc 
+nvim .bashrc 
+source .bashrc 
+ls -al
+cd Desktop/
+cd CodingPractice/
+ls -al
+cd
+nvim .bashrc 
+source .bahr
+source .bashrc 
+ls -al
+nvim .bashrc 
+ls -al
+source .bashrc 
+nvim .bashrc 
+source .bashrc 
+nvim .bashrc 
+ls -al
+ls -al
+ls -al
+ls -al
+ls -al
+ls -al
+source .bashrc 
+ls -al
+source .bashrc 
+ls -al
+ls -al
+source .bashrc 
+ls -al
+source .bashrc 
+ls -al
+source .bashrc 
+ls -al
+ls -al
+source .bashrc 
+ls -al
+source .bashrc 
+ls- al
+ls -al
+source .bashrc 
+source .bashrc 
+ls -al
+source .bashrc 
+source .bashrc 
+ls -al
+source .bashrc 
+source .bashrc 
+source .bashrc 
+source .bashrc 
+source .bashrc 
+source .bashrc 
+source .bashrc 
+source .bashrc 
+source .bashrc 
+source .bashrc 
+ls-al
+ls -al
+source .bashrc 
 ls -al
 ls -al
 cd Desktop/
+ls -al
+cd CodingPractice/
+ls -al
+ls -alcd
 cd
-sudo vim .Xresources 
-xrdb -merge .Xresources 
+source .bashrc 
+ls- al
+ls a-l
+ls -al
+cd Desktop/
 ls -al
 ls -al
-vim .vimrc 
-sudo vim .Xresources 
-xrdb -merge .Xresources 
+cd
+source .bashrc 
 ls -al
-vim .vimrc 
-sudo vim .Xresources 
-xrdb -merge .Xresources 
+ls- al
+ls -al
+cd Desktop/
+cd CodingPractice/
+ls -l
+vim infixToPostfix.py 
+nvim infixToPostfix.py 
+nvim Practice.cpp 
+cd
+nvim .bashrc 

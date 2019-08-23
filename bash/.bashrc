@@ -8,7 +8,16 @@ alias ls='ls --color=auto'
 
 TERM=xterm-256color
 
-PS1='[\u@\h \W]\$ '
+PS1="\[$(tput bold)\]";
+PS1+="\[$(tput setaf 72)\]\W ";
+PS1+="\[$(tput setaf 124)\]"
+PS1+=$'\u2771';
+PS1+="\[$(tput setaf 166)\]"
+PS1+=$'\u2771';
+PS1+="\[$(tput setaf 172)\]"
+PS1+=$'\u2771 ';
+PS1+="\[$(tput sgr0)\]";
+export PS1;
 
 vicd()
 {
@@ -19,10 +28,3 @@ vicd()
     fi
     cd "$dst"
 }
-
-powerline-daemon -q
-POWERLINE_BASH_CONTINUATION=1
-POWERLINE_BASH_SELECT=1
-. /usr/lib/python3.7/site-packages/powerline/bindings/bash/powerline.sh
-
-#neofetch

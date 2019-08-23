@@ -13,16 +13,12 @@
 	/home/ananth/
 	..
 1562158415
-'z
-	/home/ananth/.config/vifm
-	..
-1562158415
 
 # Bookmarks:
 
 # TUI:
 al
-q0
+q1
 v2
 ov
 m-1
@@ -30,30 +26,9 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/home/ananth
-	Programs
+d/shared
+	CourseWork
 3
-d/home/ananth/Programs
-	powerline-fonts-git
-1
-d/home/ananth
-	Downloads
-2
-d/home/ananth/Downloads
-	cv.pdf
-2
-d/home/ananth
-	Downloads
-2
-d/home
-	ananth
-1
-d/home/ananth
-	Desktop
-1
-d/home
-	ananth
-1
 d/
 	home
 4
@@ -67,233 +42,17 @@ d/home/ananth/Downloads
 	Wallpaper.png
 1
 d/home/ananth
-	Desktop
-1
-d/home/ananth/Desktop
-	Resume
-1
-d/home/ananth/Desktop/Resume
-	test.pdf
-3
-d/home/ananth/Desktop
-	..
-0
-d/home/ananth
-	Desktop
-1
-d/home
-	ananth
-1
-d/home/ananth
-	Downloads
-2
-d/home/ananth/Downloads
-	Wallpaper.png
-1
-d/home/ananth
 	Programs
 3
 d/home/ananth/Programs
-	powerline-fonts-git
-1
-d/home/ananth
-	Desktop
-1
-d/home/ananth/Desktop
 	..
 0
 d/home/ananth
-	Downloads
-2
-d/home/ananth/Downloads
-	cv.pdf
-2
-d/home/ananth
-	Downloads
-2
-d/home/ananth/Downloads
-	cv.pdf
+	Programs
 3
-d/home/ananth
-	Downloads
-2
 d/home
 	ananth
 1
-d/
-	boot
-1
-d/boot
-	..
-0
-d/
-	dev
-2
-d/dev
-	..
-0
-d/
-	home
-4
-d/home
-	ananth
-1
-d/
-	run
-12
-d/run
-	..
-0
-d/
-	usr
-18
-d/usr
-	include
-2
-d/usr/include
-	..
-0
-d/usr
-	bin
-1
-d/usr/bin
-	..
-0
-d/usr
-	local
-6
-d/usr/local
-	etc
-2
-d/usr/local/etc
-	..
-0
-d/usr/local
-	etc
-2
-d/usr
-	share
-8
-d/usr/share
-	..
-0
-d/usr
-	src
-9
-d/usr/src
-	..
-0
-d/usr
-	src
-9
-d/
-	lib64
-6
-d/lib64
-	X11
-2
-d/lib64/X11
-	x11perfcomp
-1
-d/lib64/X11/x11perfcomp
-	..
-0
-d/lib64/X11
-	x11perfcomp
-1
-d/lib64
-	audit
-3
-d/lib64/audit
-	..
-0
-d/lib64
-	avahi
-4
-d/lib64/avahi
-	..
-0
-d/lib64
-	awk
-5
-d/lib64/awk
-	..
-0
-d/lib64
-	bash
-6
-d/lib64/bash
-	..
-0
-d/lib64
-	bellagio
-7
-d/lib64/bellagio
-	..
-0
-d/lib64
-	bfd-plugins
-8
-d/lib64/bfd-plugins
-	..
-0
-d/lib64
-	binfmt.d
-9
-d/lib64/binfmt.d
-	..
-0
-d/lib64
-	cairo
-10
-d/lib64/cairo
-	..
-0
-d/lib64
-	cmake
-11
-d/lib64/cmake
-	DBus1
-1
-d/lib64/cmake/DBus1
-	..
-0
-d/lib64/cmake
-	Gpgmepp
-2
-d/lib64
-	firefox
-27
-d/lib64/firefox
-	browser
-1
-d/lib64/firefox/browser
-	chrome
-1
-d/lib64/firefox/browser/chrome
-	icons
-1
-d/lib64/firefox/browser/chrome/icons
-	default
-1
-d/lib64/firefox/browser/chrome/icons/default
-	..
-0
-d/lib64/firefox/browser/chrome/icons
-	default
-1
-d/lib64/firefox/browser/chrome
-	icons
-1
-d/lib64/firefox/browser
-	chrome
-1
-d/lib64/firefox
-	browser
-1
-d/lib64
-	firefox
-27
 d/
 	home
 4
@@ -304,8 +63,8 @@ d/home/ananth
 	Programs
 3
 d/home/ananth/Programs
-	stow-git
-3
+	..
+0
 d/home/ananth
 	Programs
 3
@@ -317,7 +76,7 @@ d/
 14
 d/shared
 	Projects
-4
+5
 d/shared/Projects
 	Iris
 1
@@ -328,20 +87,288 @@ d/shared/CourseWork
 	ArtificialIntelligence
 1
 d/shared/CourseWork/ArtificialIntelligence
-	projects.pdf
+	10.1109@distra.2018.8601002.pdf
 1
+d/shared/CourseWork
+	ArtificialIntelligence
+1
+d/shared
+	CourseWork
+3
+d/
+	home
+4
+d/home
+	ananth
+1
+d/home/ananth
+	Downloads
+2
+d/home/ananth/Downloads
+	..
+0
+d/home/ananth
+	Downloads
+2
+d/home
+	ananth
+1
+d/
+	shared
+14
+d/shared
+	CourseWork
+3
+d/shared/CourseWork
+	ArtificialIntelligence
+1
+d/shared/CourseWork/ArtificialIntelligence
+	beladev2016.pdf
+2
+d/shared/CourseWork
+	ArtificialIntelligence
+1
+d/shared
+	CourseWork
+3
+d/
+	shared
+14
+d/shared
+	Books
+2
+d/shared/Books
+	..
+0
+d/shared
+	CourseWork
+3
+d/shared/CourseWork
+	ArtificialIntelligence
+1
+d/shared/CourseWork/ArtificialIntelligence
+	beladev2016.pdf
+2
+d/shared/CourseWork
+	ArtificialIntelligence
+1
+d/shared
+	Books
+2
+d/shared/Books
+	Linear Algebra and its Applications - Gilbert Strang.pdf
+3
+d/shared
+	CourseWork
+3
+d/shared/CourseWork
+	PrivacyInTheDigitalAge
+2
+d/shared/CourseWork/PrivacyInTheDigitalAge
+	PrivacyTaxonomy
+1
+d/shared/CourseWork/PrivacyInTheDigitalAge/PrivacyTaxonomy
+	Privacy Taxonomy.pdf
+1
+d/shared/CourseWork/PrivacyInTheDigitalAge
+	PrivacyTaxonomy
+1
+d/shared/CourseWork
+	PrivacyInTheDigitalAge
+2
+d/shared
+	CourseWork
+3
+d/
+	home
+4
+d/home
+	ananth
+1
+d/home/ananth
+	Desktop
+1
+d/home/ananth/Desktop
+	CodingPractice
+1
+d/home/ananth/Desktop/CodingPractice
+	shiftXOR.py
+4
+d/home/ananth/Desktop
+	CodingPractice
+1
+d/home/ananth
+	Programs
+3
+d/home
+	ananth
+1
+d/
+	shared
+14
+d/shared
+	CourseWork
+3
+d/shared/CourseWork
+	PrivacyInTheDigitalAge
+2
+d/shared/CourseWork/PrivacyInTheDigitalAge
+	PrivacyTaxonomy
+1
+d/shared/CourseWork/PrivacyInTheDigitalAge/PrivacyTaxonomy
+	Solove 2006_Privacy Taxonomy.pdf
+2
+d/shared/CourseWork/PrivacyInTheDigitalAge
+	PrivacyTaxonomy
+1
+d/shared/CourseWork
+	PrivacyInTheDigitalAge
+2
+d/shared
+	CourseWork
+3
+d/shared/CourseWork
+	ArtificialIntelligence
+1
+d/shared/CourseWork/ArtificialIntelligence
+	10.1109@distra.2018.8601002.pdf
+1
+d/shared/CourseWork
+	ArtificialIntelligence
+1
+d/shared
+	CourseWork
+3
+d/
+	home
+4
+d/home
+	ananth
+1
+d/home/ananth
+	Desktop
+1
+d/home/ananth/Desktop
+	CodingPractice
+1
+d/home/ananth
+	Desktop
+1
+d/home/ananth/Desktop
+	CodingPractice
+1
+d/home/ananth/Desktop/CodingPractice
+	infixToPostfix.py
+2
+d/home/ananth/Desktop
+	CodingPractice
+1
+d/home/ananth
+	Downloads
+2
+d/home/ananth/Downloads
+	Wallpaper.png
+1
+d/home/ananth
+	Desktop
+1
+d/home/ananth/Desktop
+	CodingPractice
+1
+d/home/ananth/Desktop/CodingPractice
+	Practice.cpp
+1
+d/home/ananth/Desktop
+	CodingPractice
+1
+d/home/ananth
+	Desktop
+1
+d/home
+	ananth
+1
+d/
+	shared
+14
+d/shared
+	CourseWork
+3
+d/shared/CourseWork
+	PrivacyInTheDigitalAge
+2
+d/shared/CourseWork/PrivacyInTheDigitalAge
+	PrivacyTaxonomy
+1
+d/shared/CourseWork/PrivacyInTheDigitalAge/PrivacyTaxonomy
+	Solove 2006_Privacy Taxonomy.pdf
+2
+d/shared/CourseWork/PrivacyInTheDigitalAge
+	PrivacyTaxonomy
+1
+d/shared/CourseWork
+	PrivacyInTheDigitalAge
+2
+d/shared
+	Books
+2
+d/shared/Books
+	Linear Algebra and its Applications - Gilbert Strang.pdf
+4
+d/shared
+	CourseWork
+3
+d/shared/CourseWork
+	MathematicsForMachineLearningTA
+2
+d/shared/CourseWork/MathematicsForMachineLearningTA
+	tutorial1
+1
+d/shared/CourseWork/MathematicsForMachineLearningTA/tutorial1
+	tutorial1Solutions.pdf
+3
 d
 
 # Right window history (oldest to newest):
 D/home/ananth
+	Desktop
+1
+D/home/ananth/Desktop
+	CodingPractice
+1
+D/home/ananth/Desktop/CodingPractice
 	..
 0
+D/home/ananth/Desktop
+	CodingPractice
+1
+D/home/ananth
+	Downloads
+2
+D/home/ananth/Downloads
+	..
+0
+D/home/ananth
+	Downloads
+2
+D/home/ananth/Downloads
+	Wallpaper.png
+1
+D/home/ananth
+	Downloads
+2
+D/home
+	ananth
+1
+D/
+	boot
+1
 D
 
 # Command line history (oldest to newest):
 :b
 :cq
 :feh Wallpaper.png
+:Q
 :q
 
 # Search history (oldest to newest):
