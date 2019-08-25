@@ -22,7 +22,7 @@ call plug#end()
 let g:airline_powerline_fonts = 1
 
 " Set the Vim Airline Theme
-let g:airline_theme = 'sol'
+let g:airline_theme = 'gruvbox'
 
 " Set the Colorscheme
 colorscheme gruvbox

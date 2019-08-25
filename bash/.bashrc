@@ -6,15 +6,19 @@
 [[ $- != *i* ]] && return
 alias ls='ls --color=auto'
 
+if [ -f ~/.bash_aliases ]; then
+	. ~/.bash_aliases
+fi
+
 TERM=xterm-256color
 
 PS1="\[$(tput bold)\]";
 PS1+="\[$(tput setaf 72)\]\W ";
 PS1+="\[$(tput setaf 124)\]"
 PS1+=$'\u2771';
-PS1+="\[$(tput setaf 166)\]"
-PS1+=$'\u2771';
 PS1+="\[$(tput setaf 172)\]"
+PS1+=$'\u2771';
+PS1+="\[$(tput setaf 106)\]"
 PS1+=$'\u2771 ';
 PS1+="\[$(tput sgr0)\]";
 export PS1;
