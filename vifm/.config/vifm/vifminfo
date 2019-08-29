@@ -26,96 +26,6 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/home
-	ananth
-1
-d/
-	shared
-14
-d/shared
-	Projects
-5
-d/shared/Projects
-	Iris
-1
-d/shared
-	CourseWork
-3
-d/shared/CourseWork
-	ArtificialIntelligence
-1
-d/shared/CourseWork/ArtificialIntelligence
-	10.1109@distra.2018.8601002.pdf
-1
-d/shared/CourseWork
-	ArtificialIntelligence
-1
-d/shared
-	CourseWork
-3
-d/
-	home
-4
-d/home
-	ananth
-1
-d/home/ananth
-	Downloads
-2
-d/home/ananth/Downloads
-	..
-0
-d/home/ananth
-	Downloads
-2
-d/home
-	ananth
-1
-d/
-	shared
-14
-d/shared
-	CourseWork
-3
-d/shared/CourseWork
-	ArtificialIntelligence
-1
-d/shared/CourseWork/ArtificialIntelligence
-	beladev2016.pdf
-2
-d/shared/CourseWork
-	ArtificialIntelligence
-1
-d/shared
-	CourseWork
-3
-d/
-	shared
-14
-d/shared
-	Books
-2
-d/shared/Books
-	..
-0
-d/shared
-	CourseWork
-3
-d/shared/CourseWork
-	ArtificialIntelligence
-1
-d/shared/CourseWork/ArtificialIntelligence
-	beladev2016.pdf
-2
-d/shared/CourseWork
-	ArtificialIntelligence
-1
-d/shared
-	Books
-2
-d/shared/Books
-	Linear Algebra and its Applications - Gilbert Strang.pdf
-3
 d/shared
 	CourseWork
 3
@@ -326,6 +236,96 @@ d/shared
 d/shared/Books
 	Reinforcement Learning : An Introduction - Richard S Sutton, Andrew G barto.pdf
 5
+d/shared
+	CourseWork
+3
+d/shared/CourseWork
+	ArtificialIntelligence
+1
+d/shared/CourseWork/ArtificialIntelligence
+	data
+1
+d/shared/CourseWork/ArtificialIntelligence/data
+	..
+0
+d/shared/CourseWork/ArtificialIntelligence
+	src
+3
+d/shared/CourseWork/ArtificialIntelligence/src
+	..
+0
+d/shared/CourseWork/ArtificialIntelligence
+	papers
+2
+d/shared/CourseWork/ArtificialIntelligence/papers
+	10.1109@distra.2018.8601002.pdf
+1
+d/shared/CourseWork/ArtificialIntelligence
+	src
+3
+d/shared/CourseWork/ArtificialIntelligence/src
+	..
+0
+d/shared/CourseWork/ArtificialIntelligence
+	src
+3
+d/shared/CourseWork
+	ArtificialIntelligence
+1
+d/shared
+	Books
+2
+d/shared/Books
+	Reinforcement Learning - An Introduction - Richard S Sutton, Andrew G Barto.pdf
+6
+d/shared
+	Books
+2
+d/shared/Books
+	Reinforcement Learning - An Introduction - Richard S Sutton, Andrew G Barto.pdf
+6
+d/shared
+	Projects
+5
+d/shared/Projects
+	..
+0
+d/shared
+	Japan
+4
+d/shared/Japan
+	..
+0
+d/shared
+	CourseWork
+3
+d/shared/CourseWork
+	ArtificialIntelligence
+1
+d/shared/CourseWork/ArtificialIntelligence
+	papers
+2
+d/shared/CourseWork/ArtificialIntelligence/papers
+	10.1109@distra.2018.8601002.pdf
+1
+d/shared/CourseWork/ArtificialIntelligence
+	papers
+2
+d/shared/CourseWork
+	ArtificialIntelligence
+1
+d/shared
+	Books
+2
+d/shared/Books
+	Reinforcement Learning - An Introduction - Richard S Sutton, Andrew G Barto.pdf
+6
+d/shared
+	Books
+2
+d/shared/Books
+	Reinforcement Learning - An Introduction - Richard S Sutton, Andrew G Barto.pdf
+6
 d
 
 # Right window history (oldest to newest):

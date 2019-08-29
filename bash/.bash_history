@@ -1,245 +1,3 @@
-mv .local/share/nvim/ .dotfiles/nvim/.local/share/
-nvim .config/nvimi
-nvim .config/nvim/init.vim 
-cd .local/lib/python3.7/site-packages/
-ls -al
-rm -rf powerline powerline_status-2.7-py3.7.egg-info/
-ls -al
-cd ..
-ls -al
-cd ..
-ls -al
-cd ..
-ls -al
-cd include/
-ls -al
-cd python3.7m/greenlet
-ls -al
-cd ..
-ls -al
-cd ..
-ls -al
-cd ..
-ls -al
-cd bin/
-ls -al
-rm -rf powerline*
-ls -al
-cd ..
-ls -al
-cd bin
-ls -al
-cd ..
-rm -rf bin/
-ls -al
-cd include/
-ls -al
-cd ..
-cd lib/
-ls -al
-cd
-cd .config/
-ls -al
-cd nvim
-ls -al
-cd ..
-cd dconf/
-ls -al
-cd ..
-cd fontconfig/1
-cd fontconfig/
-ls -al
-cd conf.d/
-ls -al
-mv 10-powerline-symbols.conf 11-powerline-symbols.conf 
-mv 11-powerline-symbols.conf 10-powerline-symbols.conf 
-cd ..
-rm -rf conf.d
-cd ..
-ls -al
-rm -rf fontconfig/
-ls -al
-cd dconf/
-ls -al
-cat user 
-cd
-ls -al
-cd D
-cd Downloads/
-ls -al
-cd ..
-ls -al
-cd .mono
-ls -al
-cd
-cd .gnupg/
-ls -al
-cd
-cd .pki/
-ls -al
-cd
-cd .cache/
-ls -al
-rm -rf vim/
-rm -rf fontconfig/
-ls -al
-cd
-poweroff
-ls -al
-xrdb -merge .Xresources 
-nvim
-sudo nvim .Xresources 
-sudo nvim .Xresources 
-ls -al
-sudo nvim .Xresources 
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-ls -al
-nvim .bashrc 
-nvim .bashrc 
-sudo nvim .Xresources 
-xrdb -merge .Xresources 
-ls -al
-nvim .bashrc 
-sudo nvim .Xresources 
-xrdb -merge .Xresources 
-ls -al
-nvim .bashrc 
-nvim .bashrc 
-sudo nvim .Xresources 
-xrdb -merge .Xresources 
-ls -al
-ls -al
-nvim .local/share/nvim/plugged/gruvbox/colors/gruvbox.vim 
-nvim .local/share/nvim/plugged/gruvbox/colors/gruvbox.vim 
-nvim .local/share/nvim/plugged/gruvbox/colors/gruvbox.vim 
-ls -al
-ls -al
-nvim .config/compton/compton.conf 
-nvim .config/compton/compton.conf 
-nvim .config/compton/compton.conf 
-nvim .config/compton/compton.conf 
-nvim .config/compton/compton.conf 
-ls -al
-nvim .config/compton/compton.conf 
-ls -al
-cd Desktop/
-ls a-l
-cd
-source .bashrc 
-source .bashrc 
-source .bashrc 
-cd Desktop/
-ls al
-source .bashrc 
-cd
-source .bashrc 
-cd
-ls -al
-source .bashrc
-ls- al
-ls -al
-ls- al
-source .bashrc
-ls -al
-ls -al
-source .bashrc 
-source .bashrc 
-source .bashrc 
-source .bashrc 
-source .bashrc 
-tmux
-nvim
-nvim .config/compton/compton.conf 
-nvim .bashrc 
-source .bashrc 
-cd Desktop/
-cd
-vim .bashrc 
-nvim .bashrc 
-source .bashrc 
-cd Desktop/
-ls -al
-nvim .bashr
-cd
-nvim .bashrc 
-source .bashrc 
-nvim .bashrc 
-source .bashrc 
-cd Desktop/
-ls -al
-cd
-echo $'\u276f'
-source .bashrc 
-nvim .bashrc 
-source .bashrc 
-nvim .bashrc 
-source .bashrc 
-ls -al
-source .bashrc 
-ls -al
-nvim .bashrc 
-source .bashrc 
-nvim .bashrc 
-source .bashrc 
-nvim .bashrc 
-source .bashrc 
-nvim .bashrc 
-source .bashrc 
-ls -al
-cd Desktop/
-cd CodingPractice/
-ls -al
-cd
-nvim .bashrc 
-source .bahr
-source .bashrc 
-ls -al
-nvim .bashrc 
-ls -al
-source .bashrc 
-nvim .bashrc 
-source .bashrc 
-nvim .bashrc 
-ls -al
-ls -al
-ls -al
-ls -al
-ls -al
-ls -al
-source .bashrc 
-ls -al
-source .bashrc 
-ls -al
-ls -al
-source .bashrc 
-ls -al
-source .bashrc 
-ls -al
-source .bashrc 
-ls -al
-ls -al
-source .bashrc 
-ls -al
-source .bashrc 
-ls- al
-ls -al
-source .bashrc 
-source .bashrc 
-ls -al
-source .bashrc 
-source .bashrc 
-ls -al
-source .bashrc 
-source .bashrc 
-source .bashrc 
-source .bashrc 
-source .bashrc 
-source .bashrc 
-source .bashrc 
-source .bashrc 
 source .bashrc 
 source .bashrc 
 ls-al
@@ -498,3 +256,245 @@ sudo pacman -Rns $(pacman -Qtdq)
 reboot
 reboot
 ls -al
+amixer
+alsamixer
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+cd Programs/
+ls -al
+cd
+ls -al
+cat .python_history 
+pacman -Qe
+ls- al
+ls -al
+cd .config/nvim/
+ls -al
+cd
+nvim .bashrc
+source .bashrc 
+source .bashrc 
+nvim .bashrc
+source .bashrc 
+vim .config/nvim/init.vim 
+nvim .bashrc
+vim .bashrc
+vim .bashrc 
+vim .bash_aliases
+source .bashrc 
+vim .config/nvim/init.vim 
+ls -al
+mv ~/.bash_aliases .dotfiles/bash/
+cd .dotfiles/
+stow bash/
+cd
+vim .config/nvim/init.vim 
+cd .dotfiles/
+stow *
+git status
+git add .
+git commit -m "Added ~/.bash_aliases"
+git push origin master
+cd
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+ls -al
+cd Desktop/CodingPractice/
+ls- al
+ls -al
+vim infixToPostfix.py 
+cd
+poweroff
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+poweroff
+vifm
+xrandr
+cd /shared/CourseWork/ArtificialIntelligence/papers/
+ls -al
+vifm
+vifm
+cd /shared/CourseWork/ArtificialIntelligence/src/
+ls -al
+cd /shared/CourseWork/ArtificialIntelligence/src/
+cd /shared/CourseWork/ArtificialIntelligence/src/
+cd /shared/CourseWork/ArtificialIntelligence/src/
+cd /shared/CourseWork/ArtificialIntelligence/src/
+cd /shared/CourseWork/ArtificialIntelligence/src/
+cd /shared/CourseWork/ArtificialIntelligence/src/
+cd /shared/CourseWork/ArtificialIntelligence/src/
+cd /shared/CourseWork/ArtificialIntelligence/src/
+cd /shared/CourseWork/ArtificialIntelligence/src/
+vidc
+vicd
+cd
+vicd
+cd
+vicd
+cd
+vicd
+cd
+vicd
+cd
+vicd
+cd
+vicd
+cd
+vicd
+cd
+vicd
+cd
+vicd
+cd
+vicd
+cd
+vicd
+cd
+python -m venv AI
+vicd
+python -m venv AI
+source AI/bin/activate
+pip sintall numpy
+pip install -user numpy
+pip install --user numpy
+python
+deactivate
+ls -al
+rm -rf AI/
+ls -al
+source AI/bin/activate
+source ~/AI/bin/activate
+pip install --user numpy
+deactivate
+rm -rf AI/
+ls -al
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+cd /shared/CourseWork/ArtificialIntelligence/src/
+vim bargain.py 
+sudo pacman -S google-chrome
+sudo pacman -S google-chrome-stable
+cd
+reboot
+vim .config/nvim/init.vim 
+vim .config/nvim/init.vim 
+vim .config/nvim/init.vim 
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+vifm
+cd /shared/CourseWork/ArtificialIntelligence/src/
+vim bargain.py 
+vim bargain.py 
+vim bargain.py 
+vim bargain.py 
+ls -al
+cd
+reboot
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+reboot
+ls
+cd Desktop
+ls
+CD
+CD
+cd
+sudo pacman -Syu
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -qtdq)
+sudo pacman -Rns $(pacman -Qtdq)
+poweroff
+xrandr
+cd /
+ls
+cd
+zathura /shared/CourseWork/ArtificialIntelligence/papers/10.1109\@distra.2018.8601002.pdf 
+ls -al
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+cd /shared/CourseWork/ArtificialIntelligence/src/
+nvim bargain.py 
+ls -al
+nvim bargain.py 
+cd
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+poweroff
+ls -al
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+cd /shared/Books/
+ls -al
+zathura 'Reinforcement Learning : An Introduction - Richard S Sutton, Andrew G barto.pdf' 
+rm 'Reinforcement Learning : An Introduction - Richard S Sutton, Andrew G barto.pdf' 
+ls -al
+zathura 'Reinforcement Learning - An Introduction - Richard S Sutton, Andrew G Barto.pdf' 
+cd
+vim .bashrc 
+ls -al
+ls -al
+ls -al
+vim .config/nvim/init.vim 
+ls -al
+vim .bashrc 
+vim .config/nvim/init.vim 
+vim .config/nvim/init.vim 
+cd Desktop/CodingPractice/
+ls -al
+vim Practice.cpp 
+vim Practice.cpp 
+vim Practice.cpp 
+vim Practice.cpp 
+vim Practice.cpp 
+vim Practice.cpp 
+vim .config/nvim/init.vim 
+vim .config/nvim/init.vim 
+cd Desktop/CodingPractice/
+vim Practice.cpp 
+cd
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+vim .config/nvim/init.vim 
+vim .config/nvim/init.vim 
+cd .local/share/nvim/plugged/tcomment_vim/
+ls -al
+cd plugin/
+ls -al
+vim tcomment.vim 
+cd
+vim .config/nvim/init.vim 
+vim .config/nvim/init.vim 
+vim .config/nvim/init.vim 
+cd Desktop/CodingPractice/
+vim infixToPostfix.py 
+cd
+poweroff
+poweroff
+cd .dotfiles/
+ls -al
+cd
+xporp
+xprop
+xprop

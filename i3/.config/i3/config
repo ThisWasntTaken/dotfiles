@@ -128,7 +128,7 @@ bindsym $mod+Shift+8 move container to workspace $ws8
 bindsym $mod+Shift+9 move container to workspace $ws9
 bindsym $mod+Shift+0 move container to workspace $ws10
 
-assign [class="firefox"] $ws2
+assign [class="Google-chrome"] $ws2
 
 # reload the configuration file
 bindsym $mod+Shift+c reload
@@ -214,6 +214,6 @@ bindsym $mod+d exec rofi -show run -font "Pragmata Pro Mono 15"
 
 #exec --no-startup-id nm-applet
 exec xterm
-exec firefox
+exec google-chrome
 exec_always feh --bg-scale ~/Downloads/Wallpaper.png
 exec_always compton  --config /home/ananth/.config/compton/compton.conf

@@ -1,6 +1,6 @@
 call plug#begin('~/.local/share/nvim/plugged')
 
-" Vim Airline for Style
+" Vim Airline for style
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 
@@ -15,6 +15,12 @@ Plug 'sheerun/vim-polyglot'
 
 " Vim-Latex-Live-Preview for live preview of TeX documents
 Plug 'xuhdev/vim-latex-live-preview', { 'for': 'tex' }
+
+" Surround for easy surrounding tag manipulation
+Plug 'tpope/vim-surround'
+
+" TComment for easy commenting
+Plug 'tomtom/tcomment_vim'
 
 call plug#end()
 
@@ -38,3 +44,9 @@ let g:livepreview_previewer = 'zathura'
 
 " Enable Mouse Scrolling
 set mouse=a
+
+" Set Line Numbers
+set number
+
+" Set shortcut for easy commenting using TComment
+map <C-/> <C-_><C-_>
