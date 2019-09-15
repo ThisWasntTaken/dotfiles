@@ -210,10 +210,10 @@ bar {
 }
 
 # start rofi (a program launcher)
-bindsym $mod+d exec rofi -show run -font "Pragmata Pro Mono 15"
+bindsym $mod+d exec rofi -show run -font "Ioveska 15"
 
 #exec --no-startup-id nm-applet
 exec xterm
-exec google-chrome
+exec google-chrome-stable
 exec_always feh --bg-scale ~/Downloads/Wallpaper.png
 exec_always compton  --config /home/ananth/.config/compton/compton.conf

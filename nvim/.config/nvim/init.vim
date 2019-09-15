@@ -1,6 +1,6 @@
 call plug#begin('~/.local/share/nvim/plugged')
 
-" Vim Airline for style
+" Airline for style
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 
@@ -13,7 +13,7 @@ Plug 'morhetz/gruvbox'
 " Polyglot for Language highlighting support
 Plug 'sheerun/vim-polyglot'
 
-" Vim-Latex-Live-Preview for live preview of TeX documents
+" Latex Live Preview for live preview of TeX documents
 Plug 'xuhdev/vim-latex-live-preview', { 'for': 'tex' }
 
 " Surround for easy surrounding tag manipulation
@@ -28,7 +28,7 @@ call plug#end()
 let g:airline_powerline_fonts = 1
 
 " Set the Vim Airline Theme
-let g:airline_theme = 'gruvbox'
+let g:airline_theme = 'sol'
 
 " Set the Colorscheme
 colorscheme gruvbox

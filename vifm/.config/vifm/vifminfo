@@ -26,90 +26,6 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/shared
-	CourseWork
-3
-d/shared/CourseWork
-	PrivacyInTheDigitalAge
-2
-d/shared/CourseWork/PrivacyInTheDigitalAge
-	PrivacyTaxonomy
-1
-d/shared/CourseWork/PrivacyInTheDigitalAge/PrivacyTaxonomy
-	Privacy Taxonomy.pdf
-1
-d/shared/CourseWork/PrivacyInTheDigitalAge
-	PrivacyTaxonomy
-1
-d/shared/CourseWork
-	PrivacyInTheDigitalAge
-2
-d/shared
-	CourseWork
-3
-d/
-	home
-4
-d/home
-	ananth
-1
-d/home/ananth
-	Desktop
-1
-d/home/ananth/Desktop
-	CodingPractice
-1
-d/home/ananth/Desktop/CodingPractice
-	shiftXOR.py
-4
-d/home/ananth/Desktop
-	CodingPractice
-1
-d/home/ananth
-	Programs
-3
-d/home
-	ananth
-1
-d/
-	shared
-14
-d/shared
-	CourseWork
-3
-d/shared/CourseWork
-	PrivacyInTheDigitalAge
-2
-d/shared/CourseWork/PrivacyInTheDigitalAge
-	PrivacyTaxonomy
-1
-d/shared/CourseWork/PrivacyInTheDigitalAge/PrivacyTaxonomy
-	Solove 2006_Privacy Taxonomy.pdf
-2
-d/shared/CourseWork/PrivacyInTheDigitalAge
-	PrivacyTaxonomy
-1
-d/shared/CourseWork
-	PrivacyInTheDigitalAge
-2
-d/shared
-	CourseWork
-3
-d/shared/CourseWork
-	ArtificialIntelligence
-1
-d/shared/CourseWork/ArtificialIntelligence
-	10.1109@distra.2018.8601002.pdf
-1
-d/shared/CourseWork
-	ArtificialIntelligence
-1
-d/shared
-	CourseWork
-3
-d/
-	home
-4
 d/home
 	ananth
 1
@@ -324,8 +240,92 @@ d/shared
 	Books
 2
 d/shared/Books
-	Reinforcement Learning - An Introduction - Richard S Sutton, Andrew G Barto.pdf
+	NoSQL for Mere Mortals - Dan Sullivan.pdf
+5
+d/shared
+	Books
+2
+d/
+	dev
+2
+d/dev
+	sr0
+30
+d/
+	shared
+14
+d/shared
+	Books
+2
+d/shared/Books
+	Convex Optimization - Stephen Boyd, Lieven Vanderberghe.pdf
+1
+d/shared
+	CourseWork
+3
+d/
+	shared
+14
+d/shared
+	Books
+2
+d/shared/Books
+	Convex Optimization - Stephen Boyd, Lieven Vanderberghe.pdf
+1
+d/shared
+	Fun
+4
+d/shared/Fun
+	audio
+1
+d/shared/Fun/audio
+	waveform.png
 6
+d/shared/Fun
+	audio
+1
+d/shared
+	Fun
+4
+d/
+	shared
+14
+d/shared
+	CourseWork
+3
+d/shared/CourseWork
+	MathematicsForMachineLearningTA
+2
+d/shared/CourseWork/MathematicsForMachineLearningTA
+	Linear Algebra
+1
+d/shared/CourseWork
+	MathematicsForMachineLearningTA
+2
+d/shared
+	CourseWork
+3
+d/
+	shared
+14
+d/shared
+	Fun
+4
+d/shared/Fun
+	audio
+1
+d/shared/Fun/audio
+	..
+0
+d/shared/Fun
+	audio
+1
+d/shared
+	Books
+2
+d/shared/Books
+	Fundamentals of Databse Systems - Ramez Elmasri, Shamkant B Navathe.pdf
+2
 d
 
 # Right window history (oldest to newest):

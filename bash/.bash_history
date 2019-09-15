@@ -1,500 +1,537 @@
-source .bashrc 
-source .bashrc 
-ls-al
+python
+cd Downloads/
 ls -al
-source .bashrc 
-ls -al
-ls -al
-cd Desktop/
-ls -al
-cd CodingPractice/
-ls -al
-ls -alcd
-cd
-source .bashrc 
-ls- al
-ls a-l
-ls -al
-cd Desktop/
-ls -al
+rm tutorial1Solutions.pdf 
+rm 'Assignment-1 (1).pdf' 
 ls -al
 cd
-source .bashrc 
-ls -al
-ls- al
-ls -al
-cd Desktop/
-cd CodingPractice/
-ls -l
-vim infixToPostfix.py 
-nvim infixToPostfix.py 
-nvim Practice.cpp 
-cd
-nvim .bashrc 
-ls -al
-ls -al
-cd Desktop/
-ls -al
-cd
-cd .local/share/
-ls -al
-:q
-CD
-cd
-cd Desktop/
-cd
-cd .dotfiles/
-ls -al
-stow *
-ls -al
-git status
-git add .
-cd nvim/
-ls -al
-cd .local/share/nvim/
-ls -al
-cd plugged/
-ls- al
-ls -al
-cd gruvbox/
-ls -al
-git status
-git add .
-git commit -m "Switched to neovim"
-git push origin master
-cd ..
-cd ..
-cd ..
-cd ..
-cd ..
-cd ..
-git status
-git restore nvim/.local/share/nvim/plugged/gruvbox
-gits status
-git status
-git add .
-git status
-git commit -m "Switched to neovim"
-git push origin master
-ls -al
-cd
-nvim .bashrc 
-ls -al
-poweroff
-cd /shared/CourseWork/MathematicsForMachineLearningTA/tutorial3
-ls -al
-nvim tutorial3Solutions.tex 
-pdflatex tutorial3Solutions.tex 
-ls -al
-cd ..
-cd tutorial2/
-nvim tutorial2Solutions.tex 
+google-chrome-stable Downloads/Assignment-1.pdf 
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+ping lol.garena.com
+ping www.leagueoflegends.jp
+ping lolesports.jp
+reboot
+reboot
 sudo pacman -Syu
 sudo pacman -Rns $(pacman -Qtdq)
 sudo pacman -Syu
 sudo pacman -Rns $(pacman -Qtdq)
 poweroff
-cd /etc/fstab 
-vim /etc/fstab 
-nvim /etc/fstab 
-cd .dotfiles/
-ls -al
-cd nvim/
-ls -al
-cd ..
-stow nvim
-ls -al
-cd /shared/CourseWork/MathematicsForMachineLearningTA/tutorial3
-vim tutorial3Solutions.tex 
-nvim tutorial3Solutions.tex 
-cd ..
-ls -al
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+pacman -Q xf86-video
+lspci | grep -e VGA -e 3D
+pacman -Q lib32-mesa
+pacman -Q lib32-nvidia-utils
+pacman -Q lib32-nvidia-390xx-utils
+pacman -Q mesa
+reboot
+vim .config/nvim/init.vim 
+vim .config/nvim/init.vim 
+vim .config/nvim/init.vim 
+vim .config/nvim/init.vim 
+vim .config/nvim/init.vim 
+vim .config/nvim/init.vim 
+vim .config/nvim/init.vim 
+vim .config/nvim/init.vim 
+vim .config/nvim/init.vim 
+vim .config/nvim/init.vim 
+vim .config/nvim/init.vim 
+vim .config/nvim/init.vim 
+vim .config/nvim/init.vim 
+vim .config/nvim/init.vim 
+vim .config/nvim/init.vim 
+vim .config/nvim/init.vim 
+cd /shared/CourseWork/ArtificialIntelligence/src/
 cd
-nmcli deive wifi list
-nmcli device wifi list
-nvim .config/nvim/init.vim 
-nvim .config/nvim/init.vim 
-nvim .config/nvim/init.vim 
-nvim .config/nvim/init.vim 
-cd .dotfiles/
+source env/bin/activate
+cd /shared/CourseWork/ArtificialIntelligence/src/
+python
+python generateData.py 
+python generateData.py 
+python generateData.py 
+python generateData.py 
+python generateData.py 
+python generateData.py 
+python generateData.py 
+python generateData.py 
+python generateData.py 
+python generateData.py 
+deactivate
 ls -al
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+python -m env venv
+python -m venv env
+source env/bin/activate
+ls -al
+pip install numpy
+pip install --upgrade pip
+pip --version
+python
+deactivate
+source env/bin/activate
+ls -al
+cd /shared/CourseWork/ArtificialIntelligence/src/
+ls -al
+vim generateData.py 
+vim generateData.py 
+deactivate
 cd
+poweroff
+python
+mv Downloads/audiocheck.net_sin_1000Hz_-3dBFS_10s.wav /shared/Fun/audio/
+source audio/bin/activate
+cd /shared/Fun/audio/
+python audio.py 
+python audio.py 
+vifm
+python audio.py 
 ls -al
-cd .config/nvim/
-ls -al
-cd ..
-ls -al
-cd
-ls- al
+rm waveform.png 
+python audio.py 
 ls -al
 vifm
-cd Desktop/
-ls -al
-cd CodingPractice/
-ls -al
-nvim Practice.cpp 
-cd
-ls -al
-reboot
-ls -al
-cd /shared/CourseWork/MathematicsForMachineLearningTA/tutorial1
-vim tutorial1Solutions.tex 
-nvim tutorial1Solutions.tex 
-pdflatex tutorial1Solutions.tex 
-ls -al
-rm tutorial1Solutions.aux tutorial1Solutions.log tutorial1Solutions.pdf 
-ls -al
-nvim tutorial1Solutions.tex 
-pdflatex tutorial1Solutions.tex 
-ls -al
-cd ..
-cd tutorial2/
-ls -al
-nvim tutorial2Solutions.tex 
-cd ..
-cd tutorial3/
-nvim tutorial3Solutions.tex 
-pdflatex tutorial3Solutions.tex 
-ls -al
-cd ..
-cd tutorial2
-ls -al
-nvim tutorial2Solutions.tex 
-pdflatex tutorial2Solutions.tex 
-ls -al
-zathura tutorial2Solutions.pdf 
-cd ..
-cd tutorial1
-zathura tutorial1Solutions.pdf 
-cd ..
-cd tutorial3/
-zathura tutorial3Solutions.pdf 
-cd ..
-cd tutorial1
-zathura tutorial1Solutions.pdf 
-cd ..
-cd tutorial2
-zathura tutorial2Solutions.pdf 
-cd ..
-cd tutorial3
-zathura tutorial3Solutions.pdf 
-cd
-reboot
-ls -al
-ls -al
-ls -al
-ls -al
-ls -al
-ls -al
-ls -al
-cd Desktop/
-cd
-sudo pacman -Q pulseaudio
-sudo pacman -Q alsautils
-sudo pacman -Q alsa
-amixer
-alsamixer
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-ls -al
-cd .local/
-ls -al
-cd share/
-ls -al
-cd fonts/
-ls -al
-cd
-nvim
-nvim .bashrc 
-cd .dotfiles/
-ls -al
-cd
-nvim .config/nvim/init.vim 
-nvim
-nvim .local/share/nvim/plugged/gruvbox/autoload/airline/themes/gruvbox.vim 
-nvim .local/share/nvim/plugged/gruvbox/autoload/gruvbox.vim 
-nvim .local/share/nvim/plugged/gruvbox/colors/gruvbox.vim 
-nvim .local/share/nvim/plugged/vim-airline-themes/autoload/airline/themes/sol.vim 
-nvim .local/share/nvim/plugged/vim-airline-themes/autoload/airline/themes/sol.vim 
-ls -al
-python
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-cd Downloads/
-rm RLbook2018trimmed.pdf 
-ls -al
-cd
-cd Downloads/
-mv RLbook2018.pdf /shared/Books/
-cd
-cd /shared/Books/
-ls -al
-mv RLbook2018.pdf 'Reinforcement Learning : An Introduction - Richard S Sutton, Andrew G barto.pdf'
-ls -al
+python audio.py 
 vifm
+rm waveform.png 
+python audio.py 
+vifm
+rm waveform.png 
+python audio.py 
+vifm
+rm waveform.png 
+python audio.py 
+vifm
+rm waveform.png 
+python audio.py 
+vifm
+python audio.py 
+ls -al
+python audio.py 
+vifm
+feh waveform.png 
+ls -al
+cd /shared/
+cd Fun/audio/
+ls -al
+alsa audio.py 
+alsa audio.py alsa inverted.wav 
+alsa inverted.wav 
+pulseaudio inverted.wav 
+pa inverted.wav 
+pacman -Q pulseaudio
+pacman -Q alsa_utils
+vifm
+ls -al
 cd
-cd /shared/Books/
+python -m venv audio
+ls -al
+source audio/bin/activate
+pip install pydub
+pip install --upgrade pip
+cd /shared/Fun/audio/
+python audio.py 
+vim audio.py 
+python audio.py 
+vim audio.py 
+vim audio.py 
+python audio.py 
+vim audio.py 
+python audio.py 
+vim audio.py 
+python audio.py 
+vim audio.py 
+python audio.py 
+vim audio.py 
+vim audio.py 
+python audio.py 
+vim audio.py 
+python audio.py 
+vim audio.py 
+python audio.py 
+vim audio.py 
+ls -al
+mv audiocheck.net_sin_1000Hz_-3dBFS_10s.wav sin_1000hz_10s.wav 
+ls -al
+vim audio.py 
+python audio.py 
+vim audio.py 
+pip install scipy
+vim audio.py 
+pip install matplotlib
+vim audio.py 
+ls -al
+deactivate]
+deactivate
+ls -alo
 cd
+reboot
+ls -al
 sudo pacman -Syu
 sudo pacman -Rns $(pacman -Qtdq)
 sudo pacman -Syu
 sudo pacman -Rns $(pacman -Qtdq)
+cd /shared/CourseWork/ArtificialIntelligence/src/
+vim generateData.py 
+cd
+cd /shared/CourseWork/ArtificialIntelligence/src/
+vim bargain.py 
+vim bargain.py 
+cd /shared/CourseWork/ArtificialIntelligence/
+cd src/
+ls -al
+vim generateData.py 
+cd
+source env/bin//activate
+cd /shared/CourseWork/ArtificialIntelligence/src/
+python generateData.py 
+vim generateData.py 
+python generateData.py 
+vim generateData.py 
+python generateData.py 
+ls -al
+python generateData.py 
+python generateData.py 
+python generateData.py 
+python generateData.py 
 python
+python generateData.py 
+vim generateData.py 
+pip install pickle
+cd
+pip install pickle
+pip3 install pickle
+which python
+python --version
+python
+vim generateData.py 
+cd /shared/CourseWork/ArtificialIntelligence/src/
+vim generateData.py 
+python generateData.py 
+vim generateData.py 
+vim generateData.py 
+python generateData.py 
+vim generateData.py 
+python generateData.py 
+ls -al
+cd ..
+ls -al
+cd src/
+mv data.pkl ../data/
+cd ../data/
+ls -al
+rm data.pkl item_list.sav co_occurance_matrix.sav 
+ls -al
+rm cost.sav 
+ls -al
+cd ../src/
+vim generateData.py 
+python generateData.py 
+mv data.pkl ../data/
+deactivate
+cd
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+poweroff
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+vim .config/i3/config 
+poweroff
+reboot
+i3 --version
+cd Downloads/
+ls -al
+rm Assignment-1.pdf fontawesome-free-5.10.2-desktop.zip 
+ls -al
+cd Programs/
+ls -al
+git clone https://aur.archlinux.org/ttf-font-awesome-4.git
+cd ttf-font-awesome-4/
+makepkg -si
+cd
+fc-cache
+cd /usr/share/fonts/
+ls -al
+cd OTF/
+ls -al
+ls -al
+mv FontAwesome.otf ~/.local/share/fonts/
+sudo mv FontAwesome.otf ~/.local/share/fonts/
+cd
+vim .bashrc 
+vim .config/i3/config 
+vim .config/i3/config 
+vim .config/i3/i3blocks.conf 
+cd .config/i3/
+mv i3blocks.conf i3blocks.conf.orig 
+wget https://raw.githubusercontent.com/ThisWasntTaken/dotfiles/master/i3/.config/i3/i3blocks.conf
+ls -al
+vim i3blocks.conf
+ls -al
+rm i3blocks.conf
+mv i3blocks.conf.orig i3blocks.conf
+ls -al
+cvd
+cd
+vim .config/i3/i3blocks.conf 
+fc -cache
+fc-cache
+fc-match "Font Awesome"
+fc-match "Font Awesome Free"
+fc-match "Font Awesome 5 Free"
+vim .config/i3/i3blocks.conf 
+fc-match "Font Awesome 4 Free"
+fc-match "Font Awesome 4 "
+fc-match "Font Awesome 4"
+fc-match "Font Awesome"
+fc-cache
+cd .local/share/fonts/
+ls -al
+ls -al
+fc-list
+fc-list > ~/list.txt
+cd
+ls -al
+vim list.txt 
+rm list.txt 
+cd /usr/share/fonts/
+ls -al
+cd TTF/
+ls -al
+cd ..
+cd OTF/
+ls -al
+rm 'Font Awesome 5 *'
+rm 'Font Awesome 5 Brands-Regular-400.otf' 
+rm 'Font Awesome 5 Free-Regular-400.otf' 
+rm 'Font Awesome 5 Free-Solid-400.otf' 
+ls -al
+sudo rm 'Font Awesome 5 Free-Solid-900.otf' 
+rm 'Font Awesome 5 Free-Solid-400.otf' 
+rm 'Font Awesome 5 Free-Regular-400.otf' 
+sudo rm 'Font Awesome 5 Free-Regular-400.otf' 
+sudo rm 'Font Awesome 5 Brands-Regular-400.otf'
+ls -al
+cd
+fc-cache
+fc-match "font awesome"
+cd .local/share/fonts/
+ls -al
+fc-cache
+ls -al
+cd
+sudo pacman -R font-awesome
+sudo pacman -R ttf-font-awesome
+cd .local/share/fonts/
+ls -al
+cd
+cd /usr/share/fonts/TTF/
+ls -al
+rm fontawesome-webfont.ttf 
+sudo rm fontawesome-webfont.ttf 
+ls -al
+cd ..
+cd OTF/
+ls -al
+fc-match "Font Awesome 5
+"
+fc-match "Font Awesome 5"
+fc-match "Font Awesome5"
+fc-match "FontAwesome5"
+fc-match "Font Awesome "
+fc-match "Font Awesome"
+fc-match "Awesome"
+fc-match "Font Awesome Regular"
+fc-match "Font Awesome 5 Regular"
+mv 'Font Awesome 5 Brands-Regular-400.otf' 'Font Awesome 5 Free-Regular-400.otf' 'Font Awesome 5 Free-Solid-900.otf' ~/.local/share/fonts/
+sudo mv 'Font Awesome 5 Brands-Regular-400.otf' 'Font Awesome 5 Free-Regular-400.otf' 'Font Awesome 5 Free-Solid-900.otf' ~/.local/share/fonts/
+cd
+fc-cache -f -v
+acpi -b
+cd /usr/lib/
+ls -al
+cd i3blocks
+cd ..
+cd
+cd .config/i3/
+ls -al
+cd scripts/
+ls -al
+cd
+i3blocks
+vim .config/i3/i3blocks.conf 
+vim .config/i3/config 
+sudo fc-cache -f -v
+run pacman -Syu awesome-terminal-fonts
+sudo pacman -Syu awesome-terminal-fonts
+vim .config/i3/config 
+sudo pacman -R awesome-terminal-fonts
+sudo pacman -Rns $(pacman -Qtdq)
+fc-cache -f -v
+cd .local/share/fonts/
+ls -al
+rm FontAwesome.otf 
+rm FontAwesome.otf 
+cd
+cd Programs/
+ls -al
+rm -rf ttf-font-awesome-4/
+git clone https://aur.archlinux.org/otf-font-awesome-5-free.git
+cd otf-font-awesome-5-free/
+ls -al
+makepkg -si
+cd
+fc-cache -f -v
+vim .config/i3/config 
+vim .config/i3/i3blocks.conf 
+vim .config/i3/config 
+fc-list | grep -i "Awesome"
+vim .config/i3/i3blocks.conf 
+cd
+pwoeroff
+poweroff
 sudo pacman -Syu
 sudo pacman -Rns $(pacman -Qtdq)
 sudo pacman -Syu]
 sudo pacman -Syu
+sudo pacman -Syu]
 sudo pacman -Rns $(pacman -Qtdq)
 sudo pacman -Syu
 sudo pacman -Rns $(pacman -Qtdq)
 sudo pacman -Syu
 sudo pacman -Rns $(pacman -Qtdq)
-reboot
-reboot
+sudo pacman -R advaita-icon-theme
+sudo pacman -R adwaita-icon-theme
+sudo pacman -R adwaita
+vifm
+poweroff
+cd .local/share/fonts/
 ls -al
-amixer
-alsamixer
+rm 'Font Awesome 5 Brands-Regular-400.otf' 
+rm 'Font Awesome 5 Brands-Regular-400.otf' 
+rm 'Font Awesome 5 Free-Solid-900.otf' 
+rm 'Font Awesome 5 Free-Solid-900.otf' 
+rm 'Font Awesome 5 Free-Regular-400.otf' 
+rm 'Font Awesome 5 Free-Regular-400.otf' 
+cd
+fc-cache -f -v
 sudo pacman -Syu
 sudo pacman -Rns $(pacman -Qtdq)
 sudo pacman -Syu
 sudo pacman -Rns $(pacman -Qtdq)
+vim .config/i3/i3blocks.conf 
+vim .config/i3/config 
+vim .config/i3/config 
+vim .config/i3/i3blocks.conf 
+vim .config/i3/config 
+pacman -R font-awesome
+sudo pacman -R font-awesome
+fc-match "Font Awesome"
+fc-match "FontAwesome"
+fc-match "Font Awesome Regular"
+fc-match "Awesome Regular"
 cd Programs/
 ls -al
-cd
+cd otf-font-awesome-5-free/
 ls -al
-cat .python_history 
-pacman -Qe
-ls- al
+makepks -si
+cd .config/i3blocks/config 
+vim .config/i3blocks/config 
+nano .config/i3blocks/config 
+nano .config/i3blocks/config 
+sudo pacman -R otf-font-=awesome
+sudo pacman -R otf-font-awesome
+sudo pacman -S awesome-terminal-fonts ttf-font-awesome
+sudo pacman -R awesome-terminal-fonts ttf-font-awesome
+sudo pacman -S otf-font-awesome
+sudo pacman -S acpi
+acpi -b
+cd /usr/lib/i3blocks
+where i3blocks
+cd /usr/libexec/i3blocks/
+cd /usr/lib64/i3
+i3blocks --version
+i3blocks -version
+man i3blocks
+pacman -Q i3blocks
+cd Downloads/
 ls -al
-cd .config/nvim/
+unzip i3blocks-1.5.zip 
 ls -al
-cd
-nvim .bashrc
-source .bashrc 
-source .bashrc 
-nvim .bashrc
-source .bashrc 
-vim .config/nvim/init.vim 
-nvim .bashrc
-vim .bashrc
-vim .bashrc 
-vim .bash_aliases
-source .bashrc 
-vim .config/nvim/init.vim 
+cd i3blocks-1.5
 ls -al
-mv ~/.bash_aliases .dotfiles/bash/
-cd .dotfiles/
-stow bash/
-cd
-vim .config/nvim/init.vim 
-cd .dotfiles/
-stow *
-git status
-git add .
-git commit -m "Added ~/.bash_aliases"
-git push origin master
-cd
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
+vim i3blocks.conf 
+make
 ls -al
-cd Desktop/CodingPractice/
-ls- al
+cd ..
 ls -al
-vim infixToPostfix.py 
-cd
-poweroff
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-poweroff
-vifm
-xrandr
-cd /shared/CourseWork/ArtificialIntelligence/papers/
+rm -rf i3blocks-1.5
 ls -al
-vifm
-vifm
-cd /shared/CourseWork/ArtificialIntelligence/src/
+cd .config/i3blocks/
 ls -al
-cd /shared/CourseWork/ArtificialIntelligence/src/
-cd /shared/CourseWork/ArtificialIntelligence/src/
-cd /shared/CourseWork/ArtificialIntelligence/src/
-cd /shared/CourseWork/ArtificialIntelligence/src/
-cd /shared/CourseWork/ArtificialIntelligence/src/
-cd /shared/CourseWork/ArtificialIntelligence/src/
-cd /shared/CourseWork/ArtificialIntelligence/src/
-cd /shared/CourseWork/ArtificialIntelligence/src/
-cd /shared/CourseWork/ArtificialIntelligence/src/
-vidc
-vicd
-cd
-vicd
-cd
-vicd
-cd
-vicd
-cd
-vicd
-cd
-vicd
-cd
-vicd
-cd
-vicd
-cd
-vicd
-cd
-vicd
-cd
-vicd
-cd
-vicd
-cd
-python -m venv AI
-vicd
-python -m venv AI
-source AI/bin/activate
-pip sintall numpy
-pip install -user numpy
-pip install --user numpy
-python
-deactivate
-ls -al
-rm -rf AI/
-ls -al
-source AI/bin/activate
-source ~/AI/bin/activate
-pip install --user numpy
-deactivate
-rm -rf AI/
-ls -al
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-cd /shared/CourseWork/ArtificialIntelligence/src/
-vim bargain.py 
-sudo pacman -S google-chrome
-sudo pacman -S google-chrome-stable
-cd
-reboot
-vim .config/nvim/init.vim 
-vim .config/nvim/init.vim 
-vim .config/nvim/init.vim 
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-vifm
-cd /shared/CourseWork/ArtificialIntelligence/src/
-vim bargain.py 
-vim bargain.py 
-vim bargain.py 
-vim bargain.py 
-ls -al
-cd
-reboot
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-reboot
-ls
-cd Desktop
-ls
-CD
-CD
-cd
-sudo pacman -Syu
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -qtdq)
-sudo pacman -Rns $(pacman -Qtdq)
-poweroff
-xrandr
-cd /
-ls
-cd
-zathura /shared/CourseWork/ArtificialIntelligence/papers/10.1109\@distra.2018.8601002.pdf 
-ls -al
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-cd /shared/CourseWork/ArtificialIntelligence/src/
-nvim bargain.py 
-ls -al
-nvim bargain.py 
-cd
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-poweroff
-ls -al
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-cd /shared/Books/
-ls -al
-zathura 'Reinforcement Learning : An Introduction - Richard S Sutton, Andrew G barto.pdf' 
-rm 'Reinforcement Learning : An Introduction - Richard S Sutton, Andrew G barto.pdf' 
-ls -al
-zathura 'Reinforcement Learning - An Introduction - Richard S Sutton, Andrew G Barto.pdf' 
-cd
-vim .bashrc 
+mkdir battery
+mv battery.sh battery
+cd battery/
 ls -al
 ls -al
+mv battery.sh ..
 ls -al
-vim .config/nvim/init.vim 
+cd ..
+rmdir battery
 ls -al
-vim .bashrc 
-vim .config/nvim/init.vim 
-vim .config/nvim/init.vim 
-cd Desktop/CodingPractice/
+mv battery.sh battery
 ls -al
-vim Practice.cpp 
-vim Practice.cpp 
-vim Practice.cpp 
-vim Practice.cpp 
-vim Practice.cpp 
-vim Practice.cpp 
-vim .config/nvim/init.vim 
-vim .config/nvim/init.vim 
-cd Desktop/CodingPractice/
-vim Practice.cpp 
+cd ..
+cd i3
+vim config 
+ls -al
+cd audio/
 cd
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-vim .config/nvim/init.vim 
-vim .config/nvim/init.vim 
-cd .local/share/nvim/plugged/tcomment_vim/
 ls -al
-cd plugin/
+cd .config/i3
+cd ..
+cd i3blocks/
+ls al
 ls -al
-vim tcomment.vim 
-cd
-vim .config/nvim/init.vim 
-vim .config/nvim/init.vim 
-vim .config/nvim/init.vim 
-cd Desktop/CodingPractice/
-vim infixToPostfix.py 
-cd
-poweroff
-poweroff
-cd .dotfiles/
+wget https://raw.githubusercontent.com/vivien/i3blocks-contrib/master/cpu_usage/cpu_usage
 ls -al
 cd
-xporp
-xprop
-xprop
+sudo pacman -R i3blocks
+cd Programs/
+ls -al
+git clone https://aur.archlinux.org/i3blocks-gaps-git.git
+cd i3blocks-gaps-git/
+makepks -si
+makepkg -si
+cd
+pacman -Q i3blocks
+ls -al
+cd .config/
+ls -al
+cd i3blocks/
+ls -al
+mv config i3blocks.conf
+mv i3blocks.conf ../i3/
+cd ..
+ls -al
+rm -rf i3blocks/
+ls -al
+cd i3/
+ls -al
+vim config 
+vim i3blocks.conf 
+vim config 
