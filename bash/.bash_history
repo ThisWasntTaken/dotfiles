@@ -1,256 +1,3 @@
-python
-cd Downloads/
-ls -al
-rm tutorial1Solutions.pdf 
-rm 'Assignment-1 (1).pdf' 
-ls -al
-cd
-google-chrome-stable Downloads/Assignment-1.pdf 
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-ping lol.garena.com
-ping www.leagueoflegends.jp
-ping lolesports.jp
-reboot
-reboot
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-poweroff
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-pacman -Q xf86-video
-lspci | grep -e VGA -e 3D
-pacman -Q lib32-mesa
-pacman -Q lib32-nvidia-utils
-pacman -Q lib32-nvidia-390xx-utils
-pacman -Q mesa
-reboot
-vim .config/nvim/init.vim 
-vim .config/nvim/init.vim 
-vim .config/nvim/init.vim 
-vim .config/nvim/init.vim 
-vim .config/nvim/init.vim 
-vim .config/nvim/init.vim 
-vim .config/nvim/init.vim 
-vim .config/nvim/init.vim 
-vim .config/nvim/init.vim 
-vim .config/nvim/init.vim 
-vim .config/nvim/init.vim 
-vim .config/nvim/init.vim 
-vim .config/nvim/init.vim 
-vim .config/nvim/init.vim 
-vim .config/nvim/init.vim 
-vim .config/nvim/init.vim 
-cd /shared/CourseWork/ArtificialIntelligence/src/
-cd
-source env/bin/activate
-cd /shared/CourseWork/ArtificialIntelligence/src/
-python
-python generateData.py 
-python generateData.py 
-python generateData.py 
-python generateData.py 
-python generateData.py 
-python generateData.py 
-python generateData.py 
-python generateData.py 
-python generateData.py 
-python generateData.py 
-deactivate
-ls -al
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-python -m env venv
-python -m venv env
-source env/bin/activate
-ls -al
-pip install numpy
-pip install --upgrade pip
-pip --version
-python
-deactivate
-source env/bin/activate
-ls -al
-cd /shared/CourseWork/ArtificialIntelligence/src/
-ls -al
-vim generateData.py 
-vim generateData.py 
-deactivate
-cd
-poweroff
-python
-mv Downloads/audiocheck.net_sin_1000Hz_-3dBFS_10s.wav /shared/Fun/audio/
-source audio/bin/activate
-cd /shared/Fun/audio/
-python audio.py 
-python audio.py 
-vifm
-python audio.py 
-ls -al
-rm waveform.png 
-python audio.py 
-ls -al
-vifm
-python audio.py 
-vifm
-rm waveform.png 
-python audio.py 
-vifm
-rm waveform.png 
-python audio.py 
-vifm
-rm waveform.png 
-python audio.py 
-vifm
-rm waveform.png 
-python audio.py 
-vifm
-python audio.py 
-ls -al
-python audio.py 
-vifm
-feh waveform.png 
-ls -al
-cd /shared/
-cd Fun/audio/
-ls -al
-alsa audio.py 
-alsa audio.py alsa inverted.wav 
-alsa inverted.wav 
-pulseaudio inverted.wav 
-pa inverted.wav 
-pacman -Q pulseaudio
-pacman -Q alsa_utils
-vifm
-ls -al
-cd
-python -m venv audio
-ls -al
-source audio/bin/activate
-pip install pydub
-pip install --upgrade pip
-cd /shared/Fun/audio/
-python audio.py 
-vim audio.py 
-python audio.py 
-vim audio.py 
-vim audio.py 
-python audio.py 
-vim audio.py 
-python audio.py 
-vim audio.py 
-python audio.py 
-vim audio.py 
-python audio.py 
-vim audio.py 
-vim audio.py 
-python audio.py 
-vim audio.py 
-python audio.py 
-vim audio.py 
-python audio.py 
-vim audio.py 
-ls -al
-mv audiocheck.net_sin_1000Hz_-3dBFS_10s.wav sin_1000hz_10s.wav 
-ls -al
-vim audio.py 
-python audio.py 
-vim audio.py 
-pip install scipy
-vim audio.py 
-pip install matplotlib
-vim audio.py 
-ls -al
-deactivate]
-deactivate
-ls -alo
-cd
-reboot
-ls -al
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-cd /shared/CourseWork/ArtificialIntelligence/src/
-vim generateData.py 
-cd
-cd /shared/CourseWork/ArtificialIntelligence/src/
-vim bargain.py 
-vim bargain.py 
-cd /shared/CourseWork/ArtificialIntelligence/
-cd src/
-ls -al
-vim generateData.py 
-cd
-source env/bin//activate
-cd /shared/CourseWork/ArtificialIntelligence/src/
-python generateData.py 
-vim generateData.py 
-python generateData.py 
-vim generateData.py 
-python generateData.py 
-ls -al
-python generateData.py 
-python generateData.py 
-python generateData.py 
-python generateData.py 
-python
-python generateData.py 
-vim generateData.py 
-pip install pickle
-cd
-pip install pickle
-pip3 install pickle
-which python
-python --version
-python
-vim generateData.py 
-cd /shared/CourseWork/ArtificialIntelligence/src/
-vim generateData.py 
-python generateData.py 
-vim generateData.py 
-vim generateData.py 
-python generateData.py 
-vim generateData.py 
-python generateData.py 
-ls -al
-cd ..
-ls -al
-cd src/
-mv data.pkl ../data/
-cd ../data/
-ls -al
-rm data.pkl item_list.sav co_occurance_matrix.sav 
-ls -al
-rm cost.sav 
-ls -al
-cd ../src/
-vim generateData.py 
-python generateData.py 
-mv data.pkl ../data/
-deactivate
-cd
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-poweroff
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-vim .config/i3/config 
-poweroff
 reboot
 i3 --version
 cd Downloads/
@@ -535,3 +282,260 @@ ls -al
 vim config 
 vim i3blocks.conf 
 vim config 
+cd Programs/otf-font-awesome-5-free/
+makepkg -si
+cd
+sudo pacman -S i3blocks
+cd .config/i3/
+ls -al
+cd scripts/`
+cd scripts/
+ls -al
+vim battery.sh 
+cd ..
+vim .i3
+vim i3blocks.conf 
+vim i3blocks.conf 
+ls -al
+ls -al
+cd ..
+ls -al
+mkdir i3blocks
+cd i3
+ls -al
+mv i3blocks.conf ../i3blocks/
+mv i3blocks.conf ../i3blocks/
+cd ..
+ls -al
+cd i3
+cd ..
+cd i3blocks/
+ls -al
+cd ..
+cd i3
+ls -al
+mv i3blocks.conf ~/.config/i3blocks/
+cd ..
+cd i3blocks/
+ls -al
+mv i3blocks.conf config
+cd ..
+cd i3
+ls -al
+vim config 
+i3-msg restart
+vim config 
+vim config 
+cd scripts/
+mv battery.sh ~/.config/i3blocks/
+cd ..
+rm scripts/
+rmdir scripts/
+ls -al
+cd
+vim .config/i3/config 
+ls -al
+cd .config/i3blocks/
+ls -al
+ls -al
+vim config 
+ls -al
+cd ..
+ls -al
+ls -al
+cd i3
+ls -al
+cd ..
+cd i3v
+cd i3blocks/
+ls -al
+cd ..
+cd
+cd /usr/lib/i3blocks/
+ls -al
+cd ba
+cd battery 
+cd
+cd .config/i3/
+vim i3blocks.conf 
+cd
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+cd .config/i3/i3blocks.conf 
+vim .config/i3/i3blocks.conf 
+cd .dotfiles/
+ls -al
+git status
+git add .
+git commit -m "i3blocks update"
+git push origin master
+cd
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+xelatex
+cd /shared/
+ls -al
+cd Fun/
+ls -al
+cd ..
+ls -al
+cd Japanese/
+ls -al
+cd Genki\ -\ An\ Integrated\ Course\ in\ Elementary\ Japanese\ \[Second\ Edition\]\ \(2011\)/
+ls -al
+vifm
+cd ..
+ls -al
+cd ..
+ls -al
+ls -al
+cd CourseWork/
+ls -al
+cd SQLforDataAnalyticsReadingElective/
+ls -al
+rm sql20nn.zip 
+ls -al
+vifm
+cd
+poweroff
+cd Downloads/
+ls -al
+rm i3blocks-1.5.zip 
+mv bargain.py /shared/CourseWork/ArtificialIntelligence/src/
+ls
+cd Downloads/
+vim bargain.py 
+python bargain.py 
+rm bargain.py 
+ls -al
+cd /shared/CourseWork/ArtificialIntelligence/src/
+ls -al
+vim bargain.py 
+ls- al
+ls -al
+rm bargain.py 
+ls
+vim bargain.py 
+vim bargain.py 
+vim bargain.py 
+cd ..
+cd data/
+ls -al
+cd ..
+cd src/
+python bargain.py 
+vim bargain.py 
+cd
+reboot
+cd /shared/Books/
+vifm
+vim  Desktop/CodingPractice/infixToPostfix.py 
+vim /shared/CourseWork/ArtificialIntelligence/src/bargain.py 
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -qtdq)
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+cd /shared/Books/
+vifm
+vifm
+vim
+cd /
+ls -al
+cd
+cat /etc/fstab 
+cd
+vifm
+poweroff
+pythonm
+python
+pip uninstall numpy
+python
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+ls -al
+source env/bin/activate
+numpy --version
+pickle --version
+deactivate
+ls -al
+rm -rf env/
+ls -al
+cd audio/
+ls -al
+cd ..
+source audio/bin/activate
+ls -al
+deactivate
+rm -rf audio/
+ls -al
+cd /shared/CourseWork/ArtificialIntelligence/src/
+python -m venv AI
+ls -al
+rm -rf AI/
+ls -al
+python -m venv AI python = 3.6
+source AI/bin/activate
+python
+pip install numpy
+python
+python
+pip install numpy
+pip install --user numpy
+python
+ls- al
+pip uninstall numpy
+cd Desktop/CodingPractice/cpp/
+ls -al
+g++ map_example.cpp 
+./a.out 
+g++ map_example.cpp 
+./a.out 
+g++ map_example.cpp 
+g++ --version
+g++ map_example.cpp 
+./a.out 
+g++ map_example.cpp 
+./a.out 
+g++ map_example.cpp 
+./a.out 
+g++ map_example.cpp 
+./a.out 
+g++ map_example.cpp 
+./a.out 
+g++ map_example.cpp 
+./a.out 
+g++ map_example.cpp 
+g++ map_example.cpp 
+./a.out 
+g++ map_example.cpp 
+./a.out 
+./a.out 
+./a.out 
+g++ map_example.cpp 
+./a.out 
+g++ vector_example.cpp 
+./a.out 
+g++ vector_example.cpp 
+g++ vector_example.cpp 
+./a.out 
+g++ vector_example.cpp 
+./a.out 
+g++ vector_example.cpp 
+./a.out 
+g++ vector_example.cpp 
+./a.out 
+./a.out 
