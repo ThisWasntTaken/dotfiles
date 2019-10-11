@@ -661,3 +661,16 @@ position-x=0.78596087456846953
 position-y=0.93186143890368978
 time=1568543738
 jumplist=
+
+[/shared/Books/Neural Networks and Learning Machines - Simon Haykin.pdf]
+page=84
+offset=0
+zoom=1
+rotate=0
+pages-per-row=1
+first-page-column=1:2
+page-right-to-left=false
+position-x=1.0148588410104011
+position-y=0.090136764449033693
+time=1570395391
+jumplist=5 0.13324873096446699 0.0060956250418354955 80 0.49986020173442086 0.085733310750769703 

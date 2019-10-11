@@ -50,3 +50,6 @@ set number
 
 " Set shortcut for easy commenting using TComment
 map <C-/> <C-_><C-_>
+
+" Set shortcut for switching between tabs
+map <Tab> :tabn<Enter>

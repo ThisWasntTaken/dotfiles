@@ -26,12 +26,6 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/shared/CourseWork/PrivacyInTheDigitalAge
-	PrivacyTaxonomy
-1
-d/shared/CourseWork
-	PrivacyInTheDigitalAge
-2
 d/shared
 	Books
 2
@@ -325,7 +319,13 @@ d/shared
 2
 d/shared/Books
 	Reinforcement Learning - An Introduction - Richard S Sutton, Andrew G Barto.pdf
-7
+8
+d/shared
+	Books
+2
+d/shared/Books
+	Neural Networks and Learning Machines - Simon Haykin.pdf
+6
 d
 
 # Right window history (oldest to newest):
