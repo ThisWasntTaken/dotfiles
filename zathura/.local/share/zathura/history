@@ -674,3 +674,29 @@ position-x=1.0148588410104011
 position-y=0.090136764449033693
 time=1570395391
 jumplist=5 0.13324873096446699 0.0060956250418354955 80 0.49986020173442086 0.085733310750769703 
+
+[/shared/Books/Automatic Speech Recognition - A Deep Learning Approach - Dong Yu, Li Deng.pdf]
+page=86
+offset=0
+zoom=1.2924468965517242
+rotate=0
+pages-per-row=1
+first-page-column=1:2
+page-right-to-left=false
+position-x=0.5
+position-y=0.26367398151802307
+time=1575455848
+jumplist=12 0.94467496542185336 0.038278055232968032 77 0.5 0.2350809635582862 
+
+[/home/ananth/Downloads/AnanthShreekumar_Resume.pdf]
+page=0
+offset=0
+zoom=1.049085394402036
+rotate=0
+pages-per-row=1
+first-page-column=1:2
+page-right-to-left=false
+position-x=0.78057142857142858
+position-y=0.68957154405820531
+time=1572426648
+jumplist=

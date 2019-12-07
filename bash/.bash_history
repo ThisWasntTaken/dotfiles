@@ -1,109 +1,82 @@
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+poweroff
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+reboot
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+reboot
+cd Desktop/CodingPractice/c
 ls -al
-rm -rf AI/
-ls -al
-rm -rf 3.6/
-ls -al
-python -m venv AI python=3.6
-ls -al
-rm -rf AI/ python\=3.6/
-ls -al
-python -m venv AI --python=3.6
-python -m venv AI --python=python3.6
-ls -al
-cd
+gcc greater_than_array.c 
+gcc greater_than_array.c 
+gcc greater_than_array.c 
+gcc greater_than_array.c 
+gcc greater_than_array.c 
+gcc greater_than_array.c 
+gcc greater_than_array.c 
+gcc greater_than_array.c 
+gcc greater_than_array.c 
+gcc greater_than_array.c 
+./a.out 
+gcc greater_than_array.c 
+gcc greater_than_array.c 
+gcc greater_than_array.c 
+gcc greater_than_array.c 
+gcc greater_than_array.c 
+gcc greater_than_array.c 
+./a.out 
+gcc greater_than_array.c 
+./a.out 
+gcc fun_with_pointers.c 
+gcc fun_with_pointers.c 
+./a.out 
+gcc fun_with_pointers.c 
+gcc greater_than_array.c 
+./a.out 
+cd ..
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
 cd Desktop/CodingPractice/
 ls -al
-mkdir cpp
-rm Practice.cpp 
-ls -al
-cd cpp/
-cd ..
-rm a.out 
-ls -la
-cd cpp
-vim map_example.cpp
-vim vector_example.cpp
-cd
-cd .dotfiles/
-ls -al
-git status
-git add .
-git commit -m "sync"
-git push origin master
-cd
-cd Desktop/CodingPractice/
-ls -al
-mkdir py
-mv *.py py/
-ls -al
-cd py/
-ls -al
-vim repeatingDigits.py
-cd ..
-cd cpp/
-ls -al
-vim repeating_digits.cpp
-cd
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-reboot
-cd /shared/Fun/maps/
-ls -al
-python test_query.py 
-python test_query.py 
-python test_query.py 
-python test_query.py 
-python test_query.py 
-python test_query.py 
-python test_query.py 
-python test_query.py 
-python test_query.py 
-python test_query.py 
-cd
-python -m venv maps
-rm -rf maps/
-python -m venv maps --python=3.6
-python -m venv maps python3.6
-python -m venv maps
-source maps/bin/activate
-pip install python-google-maps
-pip install python-google-places
-pip install --upgrade pip
-cd /shared/Fun/maps/
-ls -al
-python test_query.py 
-python test_query.py 
-python test_query.py 
-python test_query.py 
-python test_query.py 
-python test_query.py 
-cd
-deactivate
-ls -al
-rm -rf maps/
-ls -al
-cd /shared/
-ls -al
-cd Fun/
-ls -al
-ls -al
-mkdir maps
-cd maps
-ls -al
-vim test_query.py
-ls -a
+mkdir c
+cd c
+vim greater_than_array.c
+vim fun_with_pointers.c
+rm fun_with_pointers.c a.out 
 ls -al
 cd ..
-ls -al
-rm -rf maps/
-ls -al
+python
 cd
-reboot
+poweroff
 sudo pacman -Syu
 sudo pacman -Rns $(pacman -Qtdq)
 sudo pacman -Syu
 sudo pacman -Rns $(pacman -Qtdq)
-reboot
 sudo pacman -Syu
 sudo pacman -Rns $(pacman -Qtdq)
 sudo pacman -Syu
@@ -115,362 +88,131 @@ sudo pacman -Syu
 sudo pacman -Rns $(pacman -Qtdq)
 sudo pacman -Syu
 sudo pacman -Rns $(pacman -Qtdq)
-reboot
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-reboot
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-zathura /shared/Books/Neural\ Networks\ and\ Learning\ Machines\ -\ Simon\ Haykin.pdf 
-vifm
-poweroff
-vim .config/nvim/init.vim 
-cd Desktop/CodingPractice/cpp/
-ls -al
-g++ reverseInteger.cpp 
-g++ reverseInteger.cpp 
-./a.out 
-g++ reverseInteger.cpp 
-./a.out 
-cd ..
-cd py/
-ls -al
-python generateAllParanthesis.py 
-python generateAllParanthesis.py 
-python generateAllParanthesis.py 
-python generateAllParanthesis.py 
-python generateAllParanthesis.py 
-python generateAllParanthesis.py 
-python generateAllParanthesis.py 
-python generateAllParanthesis.py 
-python generateAllParanthesis.py 
-python fibonacciGenerator.py 
-python fibonacciGenerator.py 
-python fibonacciGenerator.py 
-python fibonacciGenerator.py 
-python generateAllParanthesis.py 
-vim /shared/CourseWork/ReinforcementLearning/GSR_Code/max_prod_cuts.py 
-python generateAllParanthesis.py 
 sudo pacman -Syu
 sudo pacman -Rns $(pacman -Qtdq)
 sudo pacman -Syu
 sudo pacman -Rns $(pacman -Qtdq)
 cd Desktop/CodingPractice/cpp/
 ls -al
-vim map_example.cpp 
-vim reverseInteger
-vim reverseInteger.cpp
-cd ..
-cd py/
-vim generateAllParanthesis.py
+vim minStack.cpp 
+vim minStack.cpp 
+vim minStack.cpp 
+vim minStack.cpp 
+vim minStack.cpp 
+g++ minStack.cpp 
+./a.out 
 cd
-reboot
-reboot
-cd /shared/Books/
-vifm
 python
-python
-cd /shared/Projects/NNfromScratch/
+cd Desktop/CodingPractice/cpp/
 ls -al
-python SingleLayerPerceptron.py 
 ls -al
-python3 -m venv NN
-souce NN/bin/activate
-soruce NN/bin/activate
-source NN/bin/activate
-pip install numpy
-pip install --user numpy
-python
-sudo pip install numpy
-python
-pip install numpy --no-cache-dir
-python
-deactivate
-source NN/bin/activate
-python
-pip list
-python
-import sys
-python
-pip install numpy
-python
-deactivate
+mv map_example.cpp mapExample.cpp
 ls -al
-rm -rf NN/
+mv repeating_digits.cpp repeatingDigits.cpp
+mv vector_example.cpp vectorExample.cpp
 ls -al
-python -m venv NN
-source NN/bin/activate
-pip list
-python
-quit()
-deactivate
-rm -rf NN/
+vim checkWhichType.cpp
+vim checkWhichType.cpp
+vim checkWhichType.cpp
+cd Desktop/CodingPractice/cpp/
 ls -al
+g++ checkWhichType.cpp 
+g++ checkWhichType.cpp 
+g++ checkWhichType.cpp 
+g++ checkWhichType.cpp 
+./a.out 
+g++ checkWhichType.cpp 
+./a.out 
+./a.out 
+g++ checkWhichType.cpp 
+g++ checkWhichType.cpp 
+./a.out 
+g++ checkWhichType.cpp 
+g++ checkWhichType.cpp 
+g++ checkWhichType.cpp 
+g++ checkWhichType.cpp 
+./a.out 
+g++ checkWhichType.cpp 
+./a.out 
 cd
-ls -al
-python
-cd /shared/Projects/NNfromScratch/
-ls -al
-python SingleLayerPerceptron.py 
-python SingleLayerPerceptron.py 
-python SingleLayerPerceptron.py 
-python SingleLayerPerceptron.py 
-python SingleLayerPerceptron.py 
-python SingleLayerPerceptron.py 
-python SingleLayerPerceptron.py 
-python SingleLayerPerceptron.py 
-python SingleLayerPerceptron.py 
-python SingleLayerPerceptron.py 
-python SingleLayerPerceptron.py 
-python SingleLayerPerceptron.py 
-python
-python
-python SingleLayerPerceptron.py 
-python SingleLayerPerceptron.py 
-python SingleLayerPerceptron.py 
-python SingleLayerPerceptron.py 
-python SingleLayerPerceptron.py 
-python SingleLayerPerceptron.py 
-python SingleLayerPerceptron.py 
-python SingleLayerPerceptron.py 
-python SingleLayerPerceptron.py 
-python SingleLayerPerceptron.py 
-python SingleLayerPerceptron.py 
-python SingleLayerPerceptron.py 
-python SingleLayerPerceptron.py 
-python SingleLayerPerceptron.py 
-ls -al
-cd .gnome/
-ls -al
-cd apps/
-ls -al
-cd
-ls -al
-cd /shared/Projects/
-ls -al
-mkdir NNfromScratch
-cd NNfromScratch/
-ls -al
-cd
-sudo pacman -Syu
-sudo pacman -RNs $(pacman -Qtdq)
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -RNs $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-cd /shared/Projects/NNfromScratch/
-vim SingleLayerPerceptron.py
-cd
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-reboot
-vim .config/nvim/init.vim 
-vim .config/nvim/init.vim 
-cd /shared/Projects/NNfromScratch/
-ls -al
-python SingleLayerPerceptron.py 
-python SingleLayerPerceptron.py 
-python SingleLayerPerceptron.py 
-python SingleLayerPerceptron.py 
-python
-python SingleLayerPerceptron.py 
-python SingleLayerPerceptron.py 
-python SingleLayerPerceptron.py 
-python SingleLayerPerceptron.py 
-python SingleLayerPerceptron.py 
-python SingleLayerPerceptron.py 
-python SingleLayerPerceptron.py 
-python
-cd /shared/Projects/NNfromScratch/
-ls -al
-vim SingleLayerPerceptron.py 
-ls -al
-vim MultiLayerPerceptron.py
-vim SingleLayerPerceptron.py 
-vim MultiLayerPerceptron.py 
-vim MultiLayerPerceptron.py 
-vim MultiLayerPerceptron.py 
-vim MultiLayerPerceptron.py 
-vim MultiLayerPerceptron.py 
-vim MultiLayerPerceptron.py 
-vim MultiLayerPerceptron.py 
-cd
-reboot
-reboot
-reboot
 poweroff
-reboot
-sudo reboot
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-reboot
-reboot
 sudo pacman -Syu]
 sudo pacman -Syu
 sudo pacman -Rns $(pacman -Qtdq)
 sudo pacman -Syu
 sudo pacman -Rns $(pacman -Qtdq)
+vifm
+cd /shared/Projects/NNfromScratch/
+vim MultiLayerPerceptron.py 
+rm MultiLayerPerceptron.py 
+ls -al
+vim SingleLayerPerceptron.py 
+cd
 reboot
 sudo pacman -Syu
 sudo pacman -Rns $(pacman -Qtdq)
 sudo pacman -Syu
 sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-poweroff
-cd Desktop/CodingPractice/py/
+cd Downloads/
+vifm
+vicd
 ls -al
-python infixToPostfix.py 
-python infixToPostfix.py 
-python infixToPostfix.py 
-python infixToPostfix.py 
-python infixToPostfix.py 
-python infixToPostfix.py 
-python infixToPostfix.py 
-python infixToPostfix.py 
-python infixToPostfix.py 
-python
-python evaluateExpr.py
-python evaluateExpr.py
-python evaluateExpr.py
-python evaluateExpr.py
-python evaluateExpr.py
-python evaluateExpr.py
-python evaluateExpr.py
-python evaluateExpr.py
-python evaluateExpr.py
-python evaluateExpr.py
-python evaluateExpr.py
-python evaluateExpr.py
-python evaluateExpr.py
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-cd /shared/Preparation/
 cd
+vifm
+poweroff
+reboot
+reboot
+cd Desktop/CodingPractice/cpp/
+g++ circularDeque.cpp 
+g++ circularDeque.cpp 
+g++ circularDeque.cpp 
+g++ circularDeque.cpp 
+g++ circularDeque.cpp 
+g++ circularDeque.cpp 
+g++ circularDeque.cpp 
+./a.out 
+g++ circularDeque.cpp 
+g++ circularDeque.cpp 
+./a.out 
+g++ circularDeque.cpp 
+./a.out 
+g++ circularDeque.cpp 
+g++ circularDeque.cpp 
+./a.out 
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
 cd Desktop/
+ls
+mv -r CodingPractice/ /shared/
+mv CodingPractice/ /shared/
 ls -al
-ls -al
-rm -rf Old\ Firefox\ Data/
-ls -al
+cd /shared/
+cd Co
 cd CodingPractice/
+cd cpp/
 ls -al
-cd py/
 ls -al
-vim infixToPostfix.py 
-vim infixToPostfix.py 
-vim evaluatePostFix.py
-mv infixToPostfix.py evaluateExpr.py
-vim evaluateExpr.py 
-ls -al
-vim fibonacciGenerator.py 
-vim repeatingDigits.py 
-vim shiftXOR.py 
-vim generateAllParanthesis.py 
+./a
+ls
+./a.out
+cd ..
+cd ..
+mv CodingPractice/ ~/Desktop/
 cd
-poweroff
-cd Desktop/CodingPractice/py/
-python evaluateExpr.py 
-cd Desktop/CodingPractice/cpp/
-ls -al
-g++ evaluateExpr.cpp 
-g++ evaluateExpr.cpp 
-g++ evaluateExpr.cpp 
-g++ evaluateExpr.cpp 
-g++ evaluateExpr.cpp 
-g++ evaluateExpr.cpp 
-g++ evaluateExpr.cpp 
-g++ evaluateExpr.cpp 
-g++ evaluateExpr.cpp 
-g++ evaluateExpr.cpp 
-g++ evaluateExpr.cpp 
-g++ evaluateExpr.cpp 
-g++ evaluateExpr.cpp 
-g++ evaluateExpr.cpp 
-g++ evaluateExpr.cpp 
-g++ evaluateExpr.cpp 
-g++ evaluateExpr.cpp 
-g++ evaluateExpr.cpp 
-g++ evaluateExpr.cpp 
-g++ evaluateExpr.cpp 
-g++ evaluateExpr.cpp 
-g++ evaluateExpr.cpp 
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-cd Desktop/CodingPractice/cpp/
-ls -al
-vim evaluateExpr.cpp
-poweroff
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-cd Desktop/CodingPractice/cpp/
-ls -al
-./a.out 
-rm a.out 
-ls -al
-vim minStack.cpp
-cd Desktop/CodingPractice/cpp/
-g++ minStack.cpp 
-g++ minStack.cpp 
-g++ minStack.cpp 
-g++ minStack.cpp 
-./a.out 
-g++ minStack.cpp 
-./a.out 
-./a.out 
-./a.out 
-./a.out 
-./a.out 
 cd Desktop/CodingPractice/
 ls -al
 cd cpp/
-ls -al
-vim minStack.cpp
+vim circularDeque.cpp
 cd
-pwoeroff
-reboot
-reboot
-cd Desktop/CodingPractice/py/
-python sort012.py 
-python sort012.py 
-python sort012.py 
+poweroff
 sudo pacman -Syu
 sudo pacman -Rns $(pacman -Qtdq)
 sudo pacman -Syu
@@ -481,20 +223,278 @@ sudo pacman -Syu
 sudo pacman -Rns $(pacman -Qtdq)
 sudo pacman -Syu
 sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
-sudo pacman -Syu
-sudo pacman -Rns $(pacman -Qtdq)
+ls -al
 cd Desktop/CodingPractice/py/
 ls -al
-vim sort012.py
-vim sort012.py
-vim sort012.py
+cd
+cd /shared/Preparation/
+ls -al
+mv BinarySearch.py ~/Desktop/CodingPractice/py/
+cd
+cd Desktop/CodingPractice/py/
+ls
+mv BinarySearch.py binarySearch.py
+vim binarySearch.py 
+fcd
+cd
+reboot
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu]
+sudo pacman -Syu]
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+reboot
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+reboot
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+reboot
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+reboot
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+reboot
+reboot
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+reboot
+sudo pacman -Syu
+nmcli device wifi connect
+nmcli device wifi list
+nmcli device wifi connect Bzo3-UmVkbWlOb3RlNQ password NarZuma@123
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+reboot
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+reboot
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu]
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+poweroff
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+reboot
+reboot
+reboot
+sudo pacman -Syu
+uname -r
+pacman -Q linux
+sudo pacman -Rns $(pacman -Qtdq)
+reboot
+fdisk -l
+reboot
+cd /shared/
+ls -al
+cd Books/
+vifm
+cd
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+reboot
+sudo pacman -Syu
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+reboot
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+cd /shared/Preparation/
+ls
+cd
+cd Desktop/CodingPractice/cpp/
+ls -al
+vim inheritance.cpp
+cd Desktop/CodingPractice/cpp/
+vim checkWhichType.cpp 
+g++ inheritance.cpp 
+g++ inheritance.cpp 
+g++ inheritance.cpp 
+./a.out 
+vim .config/i3/config 
+vim .config/compton/compton.conf 
+vim .config/i3/config 
+cd Desktop/CodingPractice/cpp/
+g++ inheritance.cpp 
+./a.out 
+./a.out 
+g++ inheritance.cpp 
+./a.out 
+g++ inheritance.cpp 
+g++ inheritance.cpp 
+g++ inheritance.cpp 
+g++ inheritance.cpp 
+./a.out 
+g++ inheritance.cpp 
+g++ inheritance.cpp 
+g++ inheritance.cpp 
+g++ inheritance.cpp 
+g++ inheritance.cpp 
+g++ inheritance.cpp 
+./a.out 
+g++ inheritance.cpp 
+./a.out 
+g++ inheritance.cpp 
+./a.out 
+g++ inheritance.cpp 
+./a.out 
+g++ inheritance.cpp 
+./a.out 
+g++ inheritance.cpp 
+./a.out 
+g++ inheritance.cpp 
+./a.out 
+cd
+vim .config/compton/compton.conf 
+cd Desktop/CodingPractice/cpp/
+vim inheritance.cpp 
+cd
+grep menuentry /boot/grub/grub.cfg
+sudo grep menuentry /boot/grub/grub.cfg
+sudo cat /boot/grub/grub.cfg
+sudo cat /boot/grub/grub.cfg
+cat /etc/default/grub
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+reboort
+reboot
+reboot
+cd Desktop/CodingPractice/cpp/
+g++ pointerVsReference.cpp 
+g++ pointerVsReference.cpp 
+./a.out 
+g++ pointerVsReference.cpp 
+./a.out 
+g++ pointerVsReference.cpp 
+./a.out 
+g++ pointerVsReference.cpp 
+./a.out 
+g++ pointerVsReference.cpp 
+g++ pointerVsReference.cpp 
+./a.out 
+g++ pointerVsReference.cpp 
+g++ pointerVsReference.cpp 
+./a.out 
+g++ pointerVsReference.cpp 
+g++ pointerVsReference.cpp 
+./a.out 
+./a.out 
+g++ pointerVsReference.cpp 
+./a.out 
+g++ pointerVsReference.cpp 
+g++ pointerVsReference.cpp 
+g++ pointerVsReference.cpp 
+./a.out 
+g++ pointerVsReference.cpp 
+./a.out 
+g++ pointerVsReference.cpp 
+./a.out 
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+sudo pacman -Rns $(pacman -Qtdq)
+cd Desktop/CodingPractice/cpp/
+ls
+ls -al
+vim evaluateExpr.cpp 
+vim pointerVsReference.cpp
+vim .config/compton/compton.conf 
+ls -al
